@@ -33,22 +33,22 @@ proxies:
   - {name: 埃及2, server: 52.195.211.250, port: 48436, username: 1b7b34cbmiyaipb76_g-eg_f-ff9_sid-yp9ctd0yAOz_l-30_sc-1, password: 1g7g3ggggg, type: socks5, skip-cert-verify: false, udp: true}
   - {name: 922, server: 192.168.31.93, port: 30000,  type: socks5, skip-cert-verify: false, udp: true}
   - {name: 香港自建节点, server: 18.162.153.157, port: 46151, username: gJI3Ms4Hts, password: GROqb2LF6j, type: socks5, skip-cert-verify: false, udp: true}
-proxy-groups:
+  - {name: 土耳其1, server: proxy4.miyaip.com, port: 10004, username: 1b7b34cbmiyaipb76_g-tr_f-ff15_sid-gjTo9T2saf8_l-30_sc-0, password: 1k7g3jkssfe8s, type: socks5, skip-cert-verify: false, udp: true}
+  - {name: 土耳其2, server: proxy4.miyaip.com, port: 10004, username: 1b7b34cbmiyaipb76_g-tr_f-ff15_sid-gqAN8LM5hxT_l-30_sc-0, password: 1k7g3jkssfe8s, type: socks5, skip-cert-verify: false, udp: true}
+  - {name: 土耳其3, server: proxy4.miyaip.com, port: 10003, username: 1b7b34cbmiyaipb76_g-tr_f-ff15_sid-yV3lMmMPAF7_l-30_sc-0, password: 1k7g3jkssfe8s, type: socks5, skip-cert-verify: false, udp: true}
+  - {name: 加纳1, server: proxy2.miyaip.com, port: 10002, username: 1b7b34cbmiyaipb76_g-gh_f-ff15_sid-gb9CAuNQsbe_l-30_sc-0, password: 1k7g3jkssfe8s, type: socks5, skip-cert-verify: false, udp: true}
+  - {name: 加纳2, server: proxy2.miyaip.com, port: 10001, username: 1b7b34cbmiyaipb76_g-gh_f-ff15_sid-yvWh9IZLhSW_l-30_sc-0, password: 1k7g3jkssfe8s, type: socks5, skip-cert-verify: false, udp: true}
+  - {name: 加纳3, server: proxy2.miyaip.com, port: 10004, username: 1b7b34cbmiyaipb76_g-gh_f-ff15_sid-g0VWplBTl8c_l-30_sc-0, password: 1k7g3jkssfe8s, type: socks5, skip-cert-verify: false, udp: true}
+proxy-groups:  
   - name: Googleplay
     type: select
     proxies:
-      - 土耳其测试
-      - 尼日利亚动态
-      - 尼日利亚动态1
-      - 土耳其动态3
-      - 尼日利亚4
-      - 尼日利亚动态
-      - 土耳其动态
-      - 加纳动态
-      - 加纳动态1
-      - 加纳动态2
-      - 埃及1
-      - 埃及2
+      - 土耳其1
+      - 土耳其2
+      - 土耳其3
+      - 加纳1
+      - 加纳2
+      - 加纳3
       - 922
 
   - name: Proxies
