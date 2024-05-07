@@ -15,51 +15,118 @@ dns:
     - tls://1.0.0.1:853
     - tls://dns.google:853
 proxies:
-  - {name: 🇭🇰 香港 01丨1x HK, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12022, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
-  - {name: 土耳其测试, server: 43.153.188.90, port: 11332, username: vdgfhrt_area-TR_session-rsty3y67t_life-30, password:  52dr845d2r, type: socks5, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港 03丨1x HK, server: 0gr4uqmtt8y41hcjzgazdrpjt.ourdvssss.com, port: 12024, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: haMLMXirByn6rGVh, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: c776aba2376c.microsoft.com}}
-  - {name: 尼日利亚动态1, server: 43.153.188.90, port: 44541, username: zhou176_area-NG_state-lagos_session-zhou_life-30, password: zhou176, type: socks5, skip-cert-verify: false, udp: true}
-  - {name: 土耳其动态3, server: 52.195.211.250, port: 11191, username: 1b7b34cbmiyaipb76_g-tr_f-ff15_sid-gEnT9MlEGGc_l-120_sc-0, password: 1k7g3jkssfe8s, type: socks5, skip-cert-verify: false, udp: true}
-  - {name: 尼日利亚4, server: 43.153.188.90, port: 30821, username: 1b7b34cbmiyaipb76_g-ng_f-ff9_sid-gwRH8SwtBX5_l-30_sc-1, password: 1g7g3ggggg, type: socks5, skip-cert-verify: false, udp: true}
-  - {name: 尼日利亚动态, server: proxy4.miyaip.com, port: 10004, username: 1b7b34cbmiyaipb76_g-ng_f-ff15_sid-yFTGmhVjPrK_l-120_sc-0, password: 1k7g3jkssfe8s, type: socks5, skip-cert-verify: false, udp: true}
-  - {name: 土耳其动态, server: proxy.soax.com, port: 9150, username: JfTvHKMoGU60MLxq, password: wifi;tr;;;, type: socks5, skip-cert-verify: false, udp: true}
-  - {name: 加纳动态, server: proxy1.miyaip.com, port: 10004, username: 1b7b34cbmiyaipb76_g-gh_f-ff15_sid-gT1Qy777W6B_l-30_sc-0, password: 1k7g3jkssfe8s, type: socks5, skip-cert-verify: false, udp: true}
-  - {name: 加纳动态1, server: proxy.soax.com, port: 9000, username: JfTvHKMoGU60MLxq, password: wifi;gh;;;, type: socks5, skip-cert-verify: false, udp: true}
-  - {name: L2港HK41, server: v41.topman8846.cc, port: 41341, uuid: f97053da-6cfe-3e69-816a-93fd9417ed8b, alterId: 0, type: vmess, cipher: auto, udp: true, servername: v41.topman8846.cc, tls: true}
-  - {name: 港HK44, server: v44.topman8846.cc, port: 41344, uuid: f97053da-6cfe-3e69-816a-93fd9417ed8b, alterId: 0, type: vmess, cipher: auto, udp: true, servername: v44.topman8846.cc, tls: true}
-  - {name: 港HK42, server: v42.topman8846.cc, port: 41342, uuid: f97053da-6cfe-3e69-816a-93fd9417ed8b, alterId: 0, type: vmess, cipher: auto, udp: true, servername: v42.topman8846.cc, tls: true}
-  - {name: 加纳动态2, server: 52.195.211.250, port: 39209, username: user-rox8433966-region-gh-sessid-ghhMBfBNYT-sesstime-30-keep-true, password: AA112211, type: socks5, skip-cert-verify: false, udp: true}
-  - {name: 埃及1, server: 52.195.211.250, port: 57025, username: 1b7b34cbmiyaipb76_g-eg_f-ff15_sid-gm6tHewyP63_l-30_sc-0, password: 1k7g3jkssfe8s, type: socks5, skip-cert-verify: false, udp: true}
-  - {name: 埃及2, server: 52.195.211.250, port: 48436, username: 1b7b34cbmiyaipb76_g-eg_f-ff9_sid-yp9ctd0yAOz_l-30_sc-1, password: 1g7g3ggggg, type: socks5, skip-cert-verify: false, udp: true}
-  - {name: 922, server: 192.168.31.93, port: 30000,  type: socks5, skip-cert-verify: false, udp: true}
-  - {name: 香港自建节点, server: 18.162.153.157, port: 46151, username: gJI3Ms4Hts, password: GROqb2LF6j, type: socks5, skip-cert-verify: false, udp: true}
-  - {name: 土耳其1, server: proxy4.miyaip.com, port: 10004, username: 1b7b34cbmiyaipb76_g-tr_f-ff15_sid-gjTo9T2saf8_l-30_sc-0, password: 1k7g3jkssfe8s, type: socks5, skip-cert-verify: false, udp: true}
-  - {name: 土耳其2, server: proxy4.miyaip.com, port: 10004, username: 1b7b34cbmiyaipb76_g-tr_f-ff15_sid-gqAN8LM5hxT_l-30_sc-0, password: 1k7g3jkssfe8s, type: socks5, skip-cert-verify: false, udp: true}
-  - {name: 土耳其3, server: proxy4.miyaip.com, port: 10003, username: 1b7b34cbmiyaipb76_g-tr_f-ff15_sid-yV3lMmMPAF7_l-30_sc-0, password: 1k7g3jkssfe8s, type: socks5, skip-cert-verify: false, udp: true}
-  - {name: 加纳1, server: proxy2.miyaip.com, port: 10002, username: 1b7b34cbmiyaipb76_g-gh_f-ff15_sid-gb9CAuNQsbe_l-30_sc-0, password: 1k7g3jkssfe8s, type: socks5, skip-cert-verify: false, udp: true}
-  - {name: 加纳2, server: proxy2.miyaip.com, port: 10001, username: 1b7b34cbmiyaipb76_g-gh_f-ff15_sid-yvWh9IZLhSW_l-30_sc-0, password: 1k7g3jkssfe8s, type: socks5, skip-cert-verify: false, udp: true}
-  - {name: 加纳3, server: proxy2.miyaip.com, port: 10004, username: 1b7b34cbmiyaipb76_g-gh_f-ff15_sid-g0VWplBTl8c_l-30_sc-0, password: 1k7g3jkssfe8s, type: socks5, skip-cert-verify: false, udp: true}
-proxy-groups:  
+
+  - {name: 🇭🇰 hk1, server: 47.76.162.143, port: 51371, type: vmess, uuid: e9e922a8-c5fc-4db4-ef69-b739ae8f084b, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇭🇰 HK2, server: 47.76.143.179, port: 21862, type: vmess, uuid: ea51ab9b-5206-4e82-a228-7b8e05b7f4c5, alterId: 0, cipher: auto, tls: false}
+  - {name: 尼日1, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-zWtAOc6a}
+  - {name: 尼日2, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-Bmw3Q8rH}
+  - {name: 尼日3, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-lmeP0Xxc}
+  - {name: 尼日4, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-7CFXbh4G}
+  - {name: 尼日5, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-wHXERByP}
+  - {name: 尼日6, server: ss.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-NG-sessid-0NwufsGv7l-sessTime-30, password: dJIA8BM3}
+  - {name: 尼日7, server: ss.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-NG-sessid-adjAnHcDq1-sessTime-30, password: dJIA8BM3}
+  - {name: 尼日8, server: ss.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-NG-sessid-4sxB5iGlL6-sessTime-30, password: dJIA8BM3}
+  - {name: 尼日9, server: ss.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-NG-sessid-4sxB5iGlL6-sessTime-30, password: dJIA8BM3}
+  - {name: 尼日10, server: ss.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-NG-sessid-LEHet8fx25-sessTime-30, password: dJIA8BM3}
+  - {name: 埃及1, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-wODS38kr}
+  - {name: 埃及2, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-ZUNJwKQv}
+  - {name: 埃及3, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-A08GuOlU}
+  - {name: 埃及4, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-EmJbtCUI}
+  - {name: 埃及5, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-wbsr9lvg}
+  - {name: 埃及6, server: ss.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-EG-sessid-8wNIPHNyg7-sessTime-30, password: 1g7g3ggggg}
+  - {name: 埃及7, server: ss.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-EG-sessid-vFcqGhcid5-sessTime-30, password: 1g7g3ggggg}
+  - {name: 埃及8, server: ss.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-EG-sessid-wPikBM7Aqp-sessTime-30, password: 1g7g3ggggg}
+  - {name: 埃及9, server: ss.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-EG-sessid-g1yoANHcbg-sessTime-30, password: 1g7g3ggggg}
+  - {name: 埃及10, server: ss.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-EG-sessid-M9Caf2l63h-sessTime-30, password: 1g7g3ggggg}
+  - {name: 缅甸1, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-K9fASxDo}
+  - {name: 缅甸2, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-jqFagbo1}
+  - {name: 缅甸3, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-rZKBdyMS}
+  - {name: 缅甸4, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-PtaAulvU}
+  - {name: 缅甸5, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-0wQMpPdz}
+  - {name: 缅甸6, server: ss.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-MM-sessid-c619f2ngNM-sessTime-30, password: dJIA8BM3}
+  - {name: 缅甸7, server: ss.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-MM-sessid-7digtGkhoJ-sessTime-30, password: dJIA8BM3}
+  - {name: 缅甸8, server: ss.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-MM-sessid-IyHE9MBxwb-sessTime-30, password: dJIA8BM3}
+  - {name: 缅甸9, server: ss.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-MM-sessid-auAG0Jwrax-sessTime-30, password: dJIA8BM3}
+  - {name: 缅甸10, server: ss.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-MM-sessid-wAta8iLro2-sessTime-30, password: dJIA8BM3}
+  - {name: 土耳其1, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-nOZg4Jbm}
+  - {name: 土耳其2, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-96L2x8iV}
+  - {name: 土耳其3, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-96L2x8iV}
+  - {name: 土耳其4, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-Sah4GYvf}
+  - {name: 土耳其5, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-tFrLO23o}
+  - {name: 哥伦比亚1, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-HeuQDwfL}
+  - {name: 哥伦比亚2, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-gzlUcjfM}
+  - {name: 哥伦比亚3, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-ZCWHEFg2}
+  - {name: 哥伦比亚4, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-ocCxBeAP}
+  - {name: 哥伦比亚5, server: ss.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-YyvtDaiK}
+proxy-providers:
+          机场:
+            type: http
+            url: https://fly0001.buzz/gateway/feitu?token=b6ad60273e669b9e6cb369cab42ad37b
+            interval: 86400
+            path: ./proxy_provider/jc.yaml
+            udp: false
+            health-check:
+              enable: true
+              interval: 600
+              url: http://www.gstatic.com/generate_204  
+
+proxy-groups:
   - name: Googleplay
     type: select
     proxies:
+
+      - 尼日1
+      - 尼日2
+      - 尼日3
+      - 尼日4
+      - 尼日5
+      - 尼日6
+      - 尼日7
+      - 尼日8
+      - 尼日9
+      - 尼日10
+      - 埃及1
+      - 埃及2
+      - 埃及3
+      - 埃及4
+      - 埃及5
+      - 埃及6
+      - 埃及7
+      - 埃及8
+      - 埃及9
+      - 埃及10
+      - 缅甸1
+      - 缅甸2
+      - 缅甸3
+      - 缅甸4
+      - 缅甸5
+      - 缅甸6
+      - 缅甸7
+      - 缅甸8
+      - 缅甸9
+      - 缅甸10
       - 土耳其1
       - 土耳其2
       - 土耳其3
-      - 加纳1
-      - 加纳2
-      - 加纳3
-      - 922
-
+      - 土耳其4
+      - 土耳其5
+      - 哥伦比亚1
+      - 哥伦比亚2
+      - 哥伦比亚3
+      - 哥伦比亚4
+      - 哥伦比亚5
   - name: Proxies
     type: select
     proxies:
-      - 🇭🇰 香港 01丨1x HK
-      - 港HK42
-      - 🇭🇰 香港 03丨1x HK
-      - L2港HK41
-      - 港HK44
-      - 香港自建节点
+     
+      - 🇭🇰 hk1
+      - 🇭🇰 HK2
+    use:
+      - 机场
+
+    url: http://www.gstatic.com/generate_204
+    interval: 600
+    udp: false
 rules:
   - DOMAIN-SUFFIX,ipapi.co,Googleplay
   - DOMAIN-SUFFIX,ip-api.com,Googleplay
