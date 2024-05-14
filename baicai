@@ -18,46 +18,57 @@ proxies:
 
   - {name: 🇭🇰 hk1, server: 47.76.162.143, port: 51371, type: vmess, uuid: e9e922a8-c5fc-4db4-ef69-b739ae8f084b, alterId: 0, cipher: auto, tls: false}
   - {name: 🇭🇰 HK2, server: 47.76.143.179, port: 21862, type: vmess, uuid: ea51ab9b-5206-4e82-a228-7b8e05b7f4c5, alterId: 0, cipher: auto, tls: false}
-  - {name: 尼日1, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-zWtAOc6a}
-  - {name: 尼日2, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-Bmw3Q8rH}
-  - {name: 尼日3, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-lmeP0Xxc}
-  - {name: 尼日4, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-7CFXbh4G}
-  - {name: 尼日5, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-wHXERByP}
-  - {name: 尼日6, server: ss2.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-NG-sessid-0NwufsGv7l-sessTime-30, password: dJIA8BM3}
-  - {name: 尼日7, server: ss2.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-NG-sessid-adjAnHcDq1-sessTime-30, password: dJIA8BM3}
-  - {name: 尼日8, server: ss2.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-NG-sessid-4sxB5iGlL6-sessTime-30, password: dJIA8BM3}
-  - {name: 尼日9, server: ss2.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-NG-sessid-4sxB5iGlL6-sessTime-30, password: dJIA8BM3}
-  - {name: 尼日10, server: ss2.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-NG-sessid-LEHet8fx25-sessTime-30, password: dJIA8BM3}
-  - {name: 埃及1, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-wODS38kr}
-  - {name: 埃及2, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-ZUNJwKQv}
-  - {name: 埃及3, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-A08GuOlU}
-  - {name: 埃及4, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-EmJbtCUI}
-  - {name: 埃及5, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-wbsr9lvg}
-  - {name: 埃及6, server: ss2.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-EG-sessid-8wNIPHNyg7-sessTime-30, password: 1g7g3ggggg}
-  - {name: 埃及7, server: ss2.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-EG-sessid-vFcqGhcid5-sessTime-30, password: 1g7g3ggggg}
-  - {name: 埃及8, server: ss2.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-EG-sessid-wPikBM7Aqp-sessTime-30, password: 1g7g3ggggg}
-  - {name: 埃及9, server: ss2.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-EG-sessid-g1yoANHcbg-sessTime-30, password: 1g7g3ggggg}
-  - {name: 埃及10, server: ss2.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-EG-sessid-M9Caf2l63h-sessTime-30, password: 1g7g3ggggg}
-  - {name: 缅甸1, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-K9fASxDo}
-  - {name: 缅甸2, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-jqFagbo1}
-  - {name: 缅甸3, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-rZKBdyMS}
-  - {name: 缅甸4, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-PtaAulvU}
-  - {name: 缅甸5, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-0wQMpPdz}
-  - {name: 缅甸6, server: ss2.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-MM-sessid-c619f2ngNM-sessTime-30, password: dJIA8BM3}
-  - {name: 缅甸7, server: ss2.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-MM-sessid-7digtGkhoJ-sessTime-30, password: dJIA8BM3}
-  - {name: 缅甸8, server: ss2.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-MM-sessid-IyHE9MBxwb-sessTime-30, password: dJIA8BM3}
-  - {name: 缅甸9, server: ss2.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-MM-sessid-auAG0Jwrax-sessTime-30, password: dJIA8BM3}
-  - {name: 缅甸10, server: ss2.jinhuiios.top, port: 48674, type: socks5, username: 47353961-zone-custom-region-MM-sessid-wAta8iLro2-sessTime-30, password: dJIA8BM3}
-  - {name: 土耳其1, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-nOZg4Jbm}
-  - {name: 土耳其2, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-96L2x8iV}
-  - {name: 土耳其3, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-96L2x8iV}
-  - {name: 土耳其4, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-Sah4GYvf}
-  - {name: 土耳其5, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-tFrLO23o}
-  - {name: 哥伦比亚1, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-HeuQDwfL}
-  - {name: 哥伦比亚2, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-gzlUcjfM}
-  - {name: 哥伦比亚3, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-ZCWHEFg2}
-  - {name: 哥伦比亚4, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-ocCxBeAP}
-  - {name: 哥伦比亚5, server: ss2.jinhuiios.top, port: 27229, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-YyvtDaiK}
+  - {name: 尼日1, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-zWtAOc6a}
+  - {name: 尼日2, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-Bmw3Q8rH}
+  - {name: 尼日3, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-lmeP0Xxc}
+  - {name: 尼日4, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-7CFXbh4G}
+  - {name: 尼日5, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-wHXERByP}
+  - {name: 尼日6, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-NG-sessid-0NwufsGv7l-sessTime-30, password: dJIA8BM3}
+  - {name: 尼日7, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-NG-sessid-adjAnHcDq1-sessTime-30, password: dJIA8BM3}
+  - {name: 尼日8, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-NG-sessid-4sxB5iGlL6-sessTime-30, password: dJIA8BM3}
+  - {name: 尼日9, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-NG-sessid-4sxB5iGlL6-sessTime-30, password: dJIA8BM3}
+  - {name: 尼日10, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-NG-sessid-LEHet8fx25-sessTime-30, password: dJIA8BM3}
+  - {name: 埃及1, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-wODS38kr}
+  - {name: 埃及2, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-ZUNJwKQv}
+  - {name: 埃及3, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-A08GuOlU}
+  - {name: 埃及4, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-EmJbtCUI}
+  - {name: 埃及5, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-eg_session-wbsr9lvg}
+  - {name: 埃及6, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-EG-sessid-8wNIPHNyg7-sessTime-30, password: 1g7g3ggggg}
+  - {name: 埃及7, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-EG-sessid-vFcqGhcid5-sessTime-30, password: 1g7g3ggggg}
+  - {name: 埃及8, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-EG-sessid-wPikBM7Aqp-sessTime-30, password: 1g7g3ggggg}
+  - {name: 埃及9, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-EG-sessid-g1yoANHcbg-sessTime-30, password: 1g7g3ggggg}
+  - {name: 埃及10, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-EG-sessid-M9Caf2l63h-sessTime-30, password: 1g7g3ggggg}
+  - {name: 缅甸1, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-K9fASxDo}
+  - {name: 缅甸2, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-jqFagbo1}
+  - {name: 缅甸3, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-rZKBdyMS}
+  - {name: 缅甸4, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-PtaAulvU}
+  - {name: 缅甸5, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-mm_session-0wQMpPdz}
+  - {name: 缅甸6, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-MM-sessid-c619f2ngNM-sessTime-30, password: dJIA8BM3}
+  - {name: 缅甸7, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-MM-sessid-7digtGkhoJ-sessTime-30, password: dJIA8BM3}
+  - {name: 缅甸8, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-MM-sessid-IyHE9MBxwb-sessTime-30, password: dJIA8BM3}
+  - {name: 缅甸9, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-MM-sessid-auAG0Jwrax-sessTime-30, password: dJIA8BM3}
+
+  - {name: 缅甸10, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-MM-sessid-wAta8iLro2-sessTime-30, password: dJIA8BM3}
+  - {name: 缅甸11, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-MM-sessid-OK29uFqcJr-sessTime-30, password: dJIA8BM3}
+  - {name: 缅甸12, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-MM-sessid-4EemKFA5e6-sessTime-30, password: dJIA8BM3}
+  - {name: 缅甸13, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-MM-sessid-AOotlnEn41-sessTime-30, password: dJIA8BM3}
+  - {name: 缅甸14, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-MM-sessid-wq9z3EuvCB-sessTime-30, password: dJIA8BM3}
+  - {name: 缅甸15, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-MM-sessid-PM5iuFCad8-sessTime-30, password: dJIA8BM3}
+  - {name: 缅甸16, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-MM-sessid-HufwHFwKfm-sessTime-30, password: dJIA8BM3}
+  - {name: 缅甸17, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-MM-sessid-eNjk7yufdu-sessTime-30, password: dJIA8BM3}
+  - {name: 缅甸18, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-MM-sessid-wm6GaFxD7d-sessTime-30, password: dJIA8BM3}
+  - {name: 缅甸19, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-MM-sessid-7yq71ndr6d-sessTime-30, password: dJIA8BM3}
+  - {name: 缅甸20, server: 43.249.172.6, port: 7004, type: socks5, username: 47353961-zone-custom-region-MM-sessid-K5sB2gNr7G-sessTime-30, password: dJIA8BM3}
+  - {name: 土耳其1, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-nOZg4Jbm}
+  - {name: 土耳其2, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-96L2x8iV}
+  - {name: 土耳其3, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-96L2x8iV}
+  - {name: 土耳其4, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-Sah4GYvf}
+  - {name: 土耳其5, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-tFrLO23o}
+  - {name: 哥伦比亚1, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-HeuQDwfL}
+  - {name: 哥伦比亚2, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-gzlUcjfM}
+  - {name: 哥伦比亚3, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-ZCWHEFg2}
+  - {name: 哥伦比亚4, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-ocCxBeAP}
+  - {name: 哥伦比亚5, server: 43.249.172.6, port: 7003, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-YyvtDaiK}
 proxy-providers:
           机场:
             type: http
@@ -105,6 +116,16 @@ proxy-groups:
       - 缅甸8
       - 缅甸9
       - 缅甸10
+      - 缅甸11
+      - 缅甸12
+      - 缅甸13
+      - 缅甸14
+      - 缅甸15
+      - 缅甸16
+      - 缅甸17
+      - 缅甸18
+      - 缅甸19
+      - 缅甸20
       - 土耳其1
       - 土耳其2
       - 土耳其3
@@ -115,6 +136,9 @@ proxy-groups:
       - 哥伦比亚3
       - 哥伦比亚4
       - 哥伦比亚5
+    url: http://www.gstatic.com/generate_204
+    interval: 600
+    udp: false
   - name: Proxies
     type: select
     proxies:
