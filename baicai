@@ -28,7 +28,7 @@ proxies:
   - {name: 尼日7, server: mh.jinhuiios.top, port: 8001, type: socks5, username: 47353961-zone-custom-region-NG-sessid-wYvuTZCf-sessTime-15, password: dJIA8BM3}
   - {name: 尼日8, server: mh.jinhuiios.top, port: 8001, type: socks5, username: 47353961-zone-custom-region-NG-sessid-9jDfJd04-sessTime-15, password: dJIA8BM3}
   - {name: 尼日9, server: mh.jinhuiios.top, port: 8001, type: socks5, username: 47353961-zone-custom-region-NG-sessid-c0Axrybl-sessTime-15, password: dJIA8BM3}
-  - {name: 尼日10, server: mh.jinhuiios.top, port: 8001, type: socks5, username: 47353961-zone-custom-region-NG-sessid-BSAofA4H-sessTime-15, password: dJIA8BM3}
+  - {name: 尼日10, server: 43.249.172.6, port: 2001, type: socks5, username: 47353961-zone-custom-region-NG-sessid-BSAofA4H-sessTime-15, password: dJIA8BM3}
   - {name: 埃及1, server: mh.jinhuiios.top, port: 8001, type: socks5, username: 47353961-zone-custom-region-EG-sessid-zfMZZBQq-sessTime-15, password: dJIA8BM3}
   - {name: 埃及2, server: mh.jinhuiios.top, port: 8001, type: socks5, username: 47353961-zone-custom-region-EG-sessid-SmmPVJOy-sessTime-15, password: dJIA8BM3}
   - {name: 埃及3, server: mh.jinhuiios.top, port: 8001, type: socks5, username: 47353961-zone-custom-region-EG-sessid-Eyhoe4xZ-sessTime-15, password: dJIA8BM3}
