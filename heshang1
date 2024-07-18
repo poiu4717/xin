@@ -45,7 +45,7 @@ proxies:
   - {name: 缅甸7, server: 120.233.31.221, port: 35810, type: socks5, username: 47353961-zone-custom-region-MM-sessid-61Eqwe1c-sessTime-15, password: dJIA8BM3}
   - {name: 缅甸8, server: 120.233.31.221, port: 35810, type: socks5, username: 47353961-zone-custom-region-MM-sessid-pldGAIdp-sessTime-15, password: dJIA8BM3}
   - {name: 缅甸9, server: 120.233.31.221, port: 35810, type: socks5, username: 47353961-zone-custom-region-MM-sessid-86N7SMnE-sessTime-15, password: dJIA8BM3}
-  - {name: 缅甸10, server: 120.233.31.221, port: 35810, type: socks5, username: 47353961-zone-custom-region-TW-sessid-nHuVsuhq-sessTime-30, password: dJIA8BM3}
+  - {name: 缅甸10, server: 120.233.31.221, port: 35810, type: socks5, username: 47353961-zone-custom-region-MM-sessid-zqFcIItx-sessTime-30, password: dJIA8BM3}
   - {name: 台湾1, server: 120.233.31.221, port: 35810, type: socks5, username: 47353961-zone-custom-region-TW-sessid-OjJplZpA-sessTime-30, password: dJIA8BM3}
   - {name: 台湾2, server: 120.233.31.221, port: 35810, type: socks5, username: 47353961-zone-custom-region-TW-sessid-nHuVsuhq-sessTime-30, password: dJIA8BM3}
   - {name: 台湾3, server: 120.233.31.221, port: 35810, type: socks5, username: 47353961-zone-custom-region-TW-sessid-MbMCQnO8-sessTime-30, password: dJIA8BM3}
