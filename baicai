@@ -61,11 +61,11 @@ proxies:
   - {name: 土耳其3, server: 120.233.31.221, port: 35810, type: socks5, username: 47353961-zone-custom-region-TR-sessid-ecz15ucd-sessTime-15, password: dJIA8BM3}
   - {name: 土耳其4, server: 120.233.31.221, port: 35810, type: socks5, username: 47353961-zone-custom-region-TR-sessid-706EHOSq-sessTime-15, password: dJIA8BM3}
   - {name: 土耳其5, server: 120.233.31.221, port: 35810, type: socks5, username: 47353961-zone-custom-region-TR-sessid-CrAcKL7u-sessTime-15, password: dJIA8BM3}
-  - {name: 土耳其6, server: 120.233.31.221, port: 35810, type: socks5, username: 47353961-zone-custom-region-TR-sessid-XHJWhskH-sessTime-15, password: dJIA8BM3}
-  - {name: 土耳其7, server: 120.233.31.221, port: 35810, type: socks5, username: 47353961-zone-custom-region-TR-sessid-ssXOivTy-sessTime-15, password: dJIA8BM3}
-  - {name: 土耳其8, server: 120.233.31.221, port: 35810, type: socks5, username: 47353961-zone-custom-region-TR-sessid-UQ9dGGnX-sessTime-15, password: dJIA8BM3}
-  - {name: 土耳其9, server: 120.233.31.221, port: 35810, type: socks5, username: 47353961-zone-custom-region-TR-sessid-L4YMHeFO-sessTime-15, password: dJIA8BM3}
-  - {name: 土耳其10, server: 120.233.31.221, port: 35810, type: socks5, username: 47353961-zone-custom-region-TR-sessid-EYvIvUnX-sessTime-15, password: dJIA8BM3}
+  - {name: 土耳其6, server: 103.255.209.124, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-nbKCLM9k}
+  - {name: 土耳其7, server: 103.255.209.124, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-hpvID9LA}
+  - {name: 土耳其8, server: 103.255.209.124, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-EQq86W7A}
+  - {name: 土耳其9, server: 103.255.209.124, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-BKhJacZV}
+  - {name: 土耳其10, server: 103.255.209.124, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-9WytzQkN}
   - {name: 哥伦比亚1, server: 120.233.31.221, port: 35810, type: socks5, username: 47353961-zone-custom-region-Co-sessid-Lj6inmAX-sessTime-15, password: dJIA8BM3}
   - {name: 哥伦比亚2, server: 120.233.31.221, port: 35810, type: socks5, username: 47353961-zone-custom-region-Co-sessid-z2S3kzRe-sessTime-15, password: dJIA8BM3}
   - {name: 哥伦比亚3, server: 120.233.31.221, port: 35810, type: socks5, username: 47353961-zone-custom-region-Co-sessid-d6dcv2Tk-sessTime-15, password: dJIA8BM3}
