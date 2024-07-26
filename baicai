@@ -71,11 +71,11 @@ proxies:
   - {name: 哥伦比亚3, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-Co-sessid-d6dcv2Tk-sessTime-15, password: dJIA8BM3}
   - {name: 哥伦比亚4, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-Co-sessid-GtMs4T8c-sessTime-15, password: dJIA8BM3}
   - {name: 哥伦比亚5, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-Co-sessid-n3TReYQ0-sessTime-15, password: dJIA8BM3}
-  - {name: 哥伦比亚6, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-Co-sessid-nS2s8DL4-sessTime-15, password: dJIA8BM3}
-  - {name: 哥伦比亚7, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-Co-sessid-vIHbAA8q-sessTime-15, password: dJIA8BM3}
-  - {name: 哥伦比亚8, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-Co-sessid-WaGIX5Az-sessTime-15, password: dJIA8BM3}
-  - {name: 哥伦比亚9, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-Co-sessid-q1mK37Wt-sessTime-15, password: dJIA8BM3}
-  - {name: 哥伦比亚10, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-Co-sessid-ICZLEBh2-sessTime-15, password: dJIA8BM3}
+  - {name: 哥伦比亚6, server: 103.255.209.124, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-hBmboQ1V}
+  - {name: 哥伦比亚7, server: 103.255.209.124, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-gP13D9lh}
+  - {name: 哥伦比亚8, server: 103.255.209.124, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-D6VHOu7E}
+  - {name: 哥伦比亚9, server: 103.255.209.124, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-aQXmlf7w}
+  - {name: 哥伦比亚10, server: 103.255.209.124, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-V0NUkncP}
 proxy-providers:
           机场:
             type: http
