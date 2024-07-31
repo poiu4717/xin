@@ -79,7 +79,7 @@ proxies:
 proxy-providers:
           机场:
             type: http
-            url: https://fly0001.buzz/gateway/feitu?token=298ce63e0381dfd7ac497b83102ff467
+            url: https://subs.feituyun.xyz/sub?target=clash&url=https%3A%2F%2Ffly0001.buzz%2Fgateway%2Ffeitu%3Ftoken%3D298ce63e0381dfd7ac497b83102ff467&insert=false
             interval: 86400
             path: ./proxy_provider/jc.yaml
             udp: false
