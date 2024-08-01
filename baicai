@@ -28,11 +28,11 @@ proxies:
   - {name: 尼日8, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-NG-sessid-9jDfJd04-sessTime-15, password: dJIA8BM3}
   - {name: 尼日9, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-NG-sessid-c0Axrybl-sessTime-15, password: dJIA8BM3}
   - {name: 尼日10, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-NG-sessid-BSAofA4H-sessTime-15, password: dJIA8BM3}
-  - {name: 尼日11, server: 103.255.209.124, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-mDZf3XLJ}
-  - {name: 尼日12, server: 103.255.209.124, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-h6L0gVOR}
-  - {name: 尼日13, server: 103.255.209.124, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-ryRUlInE}
-  - {name: 尼日14, server: 103.255.209.124, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-8gP6dRLD}
-  - {name: 尼日15, server: 103.255.209.124, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-DeUWLA4M}
+  - {name: 尼日11, server: 103.255.209.124, port: 18938, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-mDZf3XLJ}
+  - {name: 尼日12, server: 103.255.209.124, port: 18938, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-h6L0gVOR}
+  - {name: 尼日13, server: 103.255.209.124, port: 18938, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-ryRUlInE}
+  - {name: 尼日14, server: 103.255.209.124, port: 18938, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-8gP6dRLD}
+  - {name: 尼日15, server: 103.255.209.124, port: 18938, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-DeUWLA4M}
   - {name: 埃及1, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-EG-sessid-zfMZZBQq-sessTime-15, password: dJIA8BM3}
   - {name: 埃及2, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-EG-sessid-SmmPVJOy-sessTime-15, password: dJIA8BM3}
   - {name: 埃及3, server: 103.255.209.124, port: 8102, type: socks5, username: 47353961-zone-custom-region-EG-sessid-Eyhoe4xZ-sessTime-15, password: dJIA8BM3}
