@@ -7,11 +7,11 @@ doh-server = https://doh.pub/dns-query
 [Proxy]
 
 尼日利亚6=socks5, 103.255.209.124,18938,47353961-zone-custom-region-NG-sessid-YeIiwGsc-sessTime-30,dJIA8BM3, udp-relay=false
-尼日利亚1=socks5, 103.255.209.124,18938,poiu4717,9gHUDSv8OK_country-ng_session-AQZCdbEY, udp-relay=false
-尼日利亚2=socks5, 103.255.209.124,18938,poiu4717,9gHUDSv8OK_country-ng_session-xHhqQtvF, udp-relay=false
-尼日利亚3=socks5, 103.255.209.124,18938,poiu4717,9gHUDSv8OK_country-ng_session-IRBaYxtO, udp-relay=false
-尼日利亚4=socks5, 103.255.209.124,18938,poiu4717,9gHUDSv8OK_country-ng_session-o07m14dh, udp-relay=false
-尼日利亚5=socks5, 103.255.209.124,18938,poiu4717,9gHUDSv8OK_country-ng_session-fnhtmua8, udp-relay=false
+尼日利亚1=socks5, 103.255.209.124,54813,zZ0ZXMyMeY,VuFvOa8HFD, udp-relay=false
+尼日利亚2=socks5, 103.255.209.124,33612,JHOVnXhjCM,leR9hoBOfv, udp-relay=false
+尼日利亚3=socks5, 103.255.209.124,38336,	9T9l6l4Do5,4gV5av4xPG, udp-relay=false
+尼日利亚4=socks5, 103.255.209.124,58622,w1J8T4GLr1,DYHnJXprpC, udp-relay=false
+尼日利亚5=socks5, 103.255.209.124,41699,	7q0U9agUZR,tavx1VcNBQ, udp-relay=false
 
 [Proxy Group]
 Proxies= select, policy-path=https://51tu.lol/Ff6eAe, update-interval=86400, 
