@@ -7,11 +7,11 @@ doh-server = https://doh.pub/dns-query
 [Proxy]
 
 
-尼日利亚1=socks5, 103.255.209.124,54813,zZ0ZXMyMeY,VuFvOa8HFD, udp-relay=false
-尼日利亚2=socks5, 103.255.209.124,33612,JHOVnXhjCM,leR9hoBOfv, udp-relay=false
-尼日利亚3=socks5, 103.255.209.124,38336,	9T9l6l4Do5,4gV5av4xPG, udp-relay=false
-尼日利亚4=socks5, 103.255.209.124,58622,w1J8T4GLr1,DYHnJXprpC, udp-relay=false
-尼日利亚5=socks5, 103.255.209.124,41699,	7q0U9agUZR,tavx1VcNBQ, udp-relay=false
+尼日利亚1=socks5, ss.jinhuiios.top,54813,zZ0ZXMyMeY,VuFvOa8HFD, udp-relay=false
+尼日利亚2=socks5, ss.jinhuiios.top,33612,JHOVnXhjCM,leR9hoBOfv, udp-relay=false
+尼日利亚3=socks5, ss.jinhuiios.top,38336,9T9l6l4Do5,4gV5av4xPG, udp-relay=false
+尼日利亚4=socks5, ss.jinhuiios.top,58622,w1J8T4GLr1,DYHnJXprpC, udp-relay=false
+尼日利亚5=socks5, ss.jinhuiios.top,41699,7q0U9agUZR,tavx1VcNBQ, udp-relay=false
 🇭🇰 香港_01 = ss, hk01.51feitu.com, 11001, encrypt-method=chacha20-ietf-poly1305, password=2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8
 🇭🇰 香港_02 = ss, hk02.51feitu.com, 29892, encrypt-method=chacha20-ietf-poly1305, password=2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8
 🇭🇰 香港_03 = ss, hk03.51feitu.com, 29803, encrypt-method=chacha20-ietf-poly1305, password=2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8
