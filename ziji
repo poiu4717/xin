@@ -6,12 +6,12 @@ always-real-ip = stun.l.google.com
 doh-server = https://doh.pub/dns-query
 [Proxy]
 
-尼日利亚6=socks5, mh.jinhuiios.top,8001,47353961-zone-custom-region-NG-sessid-YeIiwGsc-sessTime-30,dJIA8BM3, udp-relay=false
-尼日利亚1= ss, 103.255.209.124, 60001, encrypt-method=aes-128-gcm, password=m4akl35juM7CNyerKwm3LhxZXRMhvrnQQ0jSsh3Fwzw=
-尼日利亚2 = ss, 103.255.209.124, 60002, encrypt-method=aes-128-gcm, password=Q+m/BFazDAOjh2wDEZ1rQMiTuUTMT3ft3f+BmEpUgeM=
-尼日利亚3 = ss, 103.255.209.124, 60003, encrypt-method=aes-128-gcm, password=5PFHEG6ZVtZ2fy8mfHCgU/bsmJXQOT98R+wwoU0Va7I=
-尼日利亚4 = ss, 103.255.209.124, 60004, encrypt-method=aes-128-gcm, password=rbmDAj34cJtMjsMz//x0+gSuLkFjnwDCNjV493/0N18=
-尼日利亚5 = ss, 103.255.209.124, 60005, encrypt-method=aes-128-gcm, password=7nsU+lOuv7CmQEBfz+igqGImnHPnq3woGuhOzPps7qA=
+尼日利亚6=socks5, 103.255.209.124,18938,47353961-zone-custom-region-NG-sessid-YeIiwGsc-sessTime-30,dJIA8BM3, udp-relay=false
+尼日利亚1=socks5, 103.255.209.124,18938,poiu4717,9gHUDSv8OK_country-ng_session-AQZCdbEY, udp-relay=false
+尼日利亚2=socks5, 103.255.209.124,18938,poiu4717,9gHUDSv8OK_country-ng_session-xHhqQtvF, udp-relay=false
+尼日利亚3=socks5, 103.255.209.124,18938,poiu4717,9gHUDSv8OK_country-ng_session-IRBaYxtO, udp-relay=false
+尼日利亚4=socks5, 103.255.209.124,18938,poiu4717,9gHUDSv8OK_country-ng_session-o07m14dh, udp-relay=false
+尼日利亚5=socks5, 103.255.209.124,18938,poiu4717,9gHUDSv8OK_country-ng_session-fnhtmua8, udp-relay=false
 
 [Proxy Group]
 Proxies= select, policy-path=https://subs.feituyun.xyz/sub?target=surfboard&url=https%3A%2F%2Fwww.jinhuiios.top%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D8c7e6563d229f9e09c0547b29339fa32&insert=false, update-interval=86400, 
