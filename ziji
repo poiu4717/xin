@@ -6,15 +6,30 @@ always-real-ip = stun.l.google.com
 doh-server = https://doh.pub/dns-query
 [Proxy]
 
-尼日利亚6=socks5, 103.255.209.124,18938,47353961-zone-custom-region-NG-sessid-YeIiwGsc-sessTime-30,dJIA8BM3, udp-relay=false
+
 尼日利亚1=socks5, 103.255.209.124,54813,zZ0ZXMyMeY,VuFvOa8HFD, udp-relay=false
 尼日利亚2=socks5, 103.255.209.124,33612,JHOVnXhjCM,leR9hoBOfv, udp-relay=false
 尼日利亚3=socks5, 103.255.209.124,38336,	9T9l6l4Do5,4gV5av4xPG, udp-relay=false
 尼日利亚4=socks5, 103.255.209.124,58622,w1J8T4GLr1,DYHnJXprpC, udp-relay=false
 尼日利亚5=socks5, 103.255.209.124,41699,	7q0U9agUZR,tavx1VcNBQ, udp-relay=false
+🇭🇰 香港_01 = ss, hk01.51feitu.com, 11001, encrypt-method=chacha20-ietf-poly1305, password=2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8
+🇭🇰 香港_02 = ss, hk02.51feitu.com, 29892, encrypt-method=chacha20-ietf-poly1305, password=2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8
+🇭🇰 香港_03 = ss, hk03.51feitu.com, 29803, encrypt-method=chacha20-ietf-poly1305, password=2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8
+🇭🇰 香港_04 = ss, hk04.51feitu.com, 11004, encrypt-method=chacha20-ietf-poly1305, password=2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8
+🇭🇰 香港_05 = ss, hk05.51feitu.com, 11005, encrypt-method=chacha20-ietf-poly1305, password=2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8
+🇭🇰 香港_06 = ss, hk06.51feitu.com, 11006, encrypt-method=chacha20-ietf-poly1305, password=2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8
+🇭🇰 香港_07 = ss, hk07.51feitu.com, 29897, encrypt-method=chacha20-ietf-poly1305, password=2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8
+🇭🇰 香港_08 = ss, hk08.51feitu.com, 29898, encrypt-method=chacha20-ietf-poly1305, password=2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8
+🇭🇰 香港_09 = ss, hk09.51feitu.com, 29809, encrypt-method=chacha20-ietf-poly1305, password=2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8
+🇭🇰 香港_10 = ss, hk10.51feitu.com, 29411, encrypt-method=chacha20-ietf-poly1305, password=2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8
+🇭🇰 香港_11 = ss, hk11.51feitu.com, 29492, encrypt-method=chacha20-ietf-poly1305, password=2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8
+🇭🇰 香港_12 = ss, hk12.51feitu.com, 29413, encrypt-method=chacha20-ietf-poly1305, password=2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8
+🇭🇰 香港_13 = ss, hk13.51feitu.com, 11013, encrypt-method=chacha20-ietf-poly1305, password=2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8
+🇭🇰 香港_14 = ss, hk14.51feitu.com, 11014, encrypt-method=chacha20-ietf-poly1305, password=2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8
+🇭🇰 香港_15 = ss, hk15.51feitu.com, 29425, encrypt-method=chacha20-ietf-poly1305, password=2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8
 
 [Proxy Group]
-Proxies= select, policy-path=https://51tu.lol/Ff6eAe, update-interval=86400, 
+Proxies= select, 🇭🇰 香港_01, 🇭🇰 香港_02, 🇭🇰 香港_03,🇭🇰 香港_04,🇭🇰 香港_05,🇭🇰 香港_06,🇭🇰 香港_07,🇭🇰 香港_08,🇭🇰 香港_09,🇭🇰 香港_10,🇭🇰 香港_11,🇭🇰 香港_12,🇭🇰 香港_13,🇭🇰 香港_14,🇭🇰 香港_15
 Googleplay= select,尼日利亚1, 尼日利亚2, 尼日利亚3,尼日利亚4,尼日利亚5
 [Rule]
 DOMAIN-SUFFIX,ipapi.co,Googleplay
