@@ -16,8 +16,6 @@ dns:
     - tls://dns.google:853
 proxies:
 
-  - {name: 🇭🇰 hk1, server: 47.76.162.143, port: 51371, type: vmess, uuid: e9e922a8-c5fc-4db4-ef69-b739ae8f084b, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇭🇰 HK2, server: 47.76.143.179, port: 21862, type: vmess, uuid: ea51ab9b-5206-4e82-a228-7b8e05b7f4c5, alterId: 0, cipher: auto, tls: false}
   - {name: 尼日1, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-NG-sessid-9UAJvr9x-sessTime-15, password: dJIA8BM3}
   - {name: 尼日2, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-NG-sessid-I1YiNFtI-sessTime-15, password: dJIA8BM3}
   - {name: 尼日3, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-NG-sessid-wEFC9qss-sessTime-15, password: dJIA8BM3}
@@ -33,41 +31,16 @@ proxies:
   - {name: 尼日13, server: 82.153.135.9, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-ryRUlInE}
   - {name: 尼日14, server: 82.153.135.9, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-8gP6dRLD}
   - {name: 尼日15, server: 82.153.135.9, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-DeUWLA4M}
-  - {name: 埃及1, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-EG-sessid-zfMZZBQq-sessTime-15, password: dJIA8BM3}
-  - {name: 埃及2, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-EG-sessid-SmmPVJOy-sessTime-15, password: dJIA8BM3}
-  - {name: 埃及3, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-EG-sessid-Eyhoe4xZ-sessTime-15, password: dJIA8BM3}
-  - {name: 埃及4, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-EG-sessid-Ajd6PZzx-sessTime-15, password: dJIA8BM3}
-  - {name: 埃及5, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-EG-sessid-76NRA7QP-sessTime-15, password: dJIA8BM3}
-  - {name: 埃及6, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-EG-sessid-QF3S5XWq-sessTime-15, password: dJIA8BM3}
-  - {name: 埃及7, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-EG-sessid-b56mswAN-sessTime-15, password: dJIA8BM3}
-  - {name: 埃及8, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-EG-sessid-b8GdxzaL-sessTime-15, password: dJIA8BM3}
-  - {name: 埃及9, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-EG-sessid-vbPY6tQq-sessTime-15, password: dJIA8BM3}
-  - {name: 埃及10, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-EG-sessid-9G8ScPkO-sessTime-15, password: dJIA8BM3}
-
-
-  - {name: 缅甸1, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-MM-sessid-kmszjXc0-sessTime-15, password: dJIA8BM3}
-  - {name: 缅甸2, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-MM-sessid-3uNCfzJE-sessTime-15, password: dJIA8BM3}
-  - {name: 缅甸3, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-MM-sessid-lfMahCnS-sessTime-15, password: dJIA8BM3}
-  - {name: 缅甸4, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-MM-sessid-cEGwQAjc-sessTime-15, password: dJIA8BM3}
-  - {name: 缅甸5, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-MM-sessid-Wbh9u2rQ-sessTime-15, password: dJIA8BM3}
-  - {name: 缅甸6, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-MM-sessid-kkUmAw1U-sessTime-15, password: dJIA8BM3}
-  - {name: 缅甸7, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-MM-sessid-61Eqwe1c-sessTime-15, password: dJIA8BM3}
-  - {name: 缅甸8, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-MM-sessid-pldGAIdp-sessTime-15, password: dJIA8BM3}
-  - {name: 缅甸9, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-MM-sessid-86N7SMnE-sessTime-15, password: dJIA8BM3}
-  - {name: 缅甸10, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-MM-sessid-0cOzuZkG-sessTime-15, password: dJIA8BM3}
-
-proxy-providers:
-          机场:
-            type: http
-            url: https://51tu.lol/Ff6eAe
-            interval: 86400
-            path: ./proxy_provider/jc.yaml
-            udp: false
-            health-check:
-              enable: true
-              interval: 600
-              url: http://www.gstatic.com/generate_204  
-
+  - {name: 🇭🇰 香港_11, server: hk11.51feitu.com, port: 11011, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
+  - {name: 🇭🇰 香港_12, server: hk12.51feitu.com, port: 11012, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
+  - {name: 🇭🇰 香港_13, server: hk13.51feitu.com, port: 11013, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
+  - {name: 🇭🇰 香港_14, server: hk14.51feitu.com, port: 11014, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
+  - {name: 🇭🇰 香港_15, server: hk15.51feitu.com, port: 11015, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
+  - {name: 🇭🇰 香港_16, server: hk16.51feitu.com, port: 11016, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
+  - {name: 🇭🇰 香港_17, server: hk17.51feitu.com, port: 11017, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
+  - {name: 🇭🇰 香港_18, server: hk18.51feitu.com, port: 11018, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
+  - {name: 🇭🇰 香港_19, server: hk19.51feitu.com, port: 11019, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
+  - {name: 🇭🇰 香港_20, server: hk20.51feitu.com, port: 11020, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
 proxy-groups:
   - name: Googleplay
     type: select
@@ -88,27 +61,7 @@ proxy-groups:
       - 尼日13
       - 尼日14
       - 尼日15
-      - 埃及1
-      - 埃及2
-      - 埃及3
-      - 埃及4
-      - 埃及5
-      - 埃及6
-      - 埃及7
-      - 埃及8
-      - 埃及9
-      - 埃及10
- 
-      - 缅甸1
-      - 缅甸2
-      - 缅甸3
-      - 缅甸4
-      - 缅甸5
-      - 缅甸6
-      - 缅甸7
-      - 缅甸8
-      - 缅甸9
-      - 缅甸10
+
 
 
     url: http://www.gstatic.com/generate_204
@@ -118,14 +71,17 @@ proxy-groups:
     type: select
     proxies:
      
-      - 🇭🇰 hk1
-      - 🇭🇰 HK2
-    use:
-      - 机场
+      - 🇭🇰 香港_11
+      - 🇭🇰 香港_12
+      - 🇭🇰 香港_13
+      - 🇭🇰 香港_14
+      - 🇭🇰 香港_15
+      - 🇭🇰 香港_16
+      - 🇭🇰 香港_17
+      - 🇭🇰 香港_18
+      - 🇭🇰 香港_19
+      - 🇭🇰 香港_20
 
-    url: http://www.gstatic.com/generate_204
-    interval: 600
-    udp: false
 rules:
   - DOMAIN-SUFFIX,ipapi.co,Googleplay
   - DOMAIN-SUFFIX,ip-api.com,Googleplay
