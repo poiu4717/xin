@@ -16,16 +16,16 @@ dns:
     - tls://dns.google:853
 proxies:
 
-  - {name: 尼日1, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-NG-sessid-9UAJvr9x-sessTime-15, password: dJIA8BM3}
-  - {name: 尼日2, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-NG-sessid-I1YiNFtI-sessTime-15, password: dJIA8BM3}
-  - {name: 尼日3, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-NG-sessid-wEFC9qss-sessTime-15, password: dJIA8BM3}
-  - {name: 尼日4, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-NG-sessid-Ld3Qh0dm-sessTime-15, password: dJIA8BM3}
-  - {name: 尼日5, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-NG-sessid-dBzMSixq-sessTime-15, password: dJIA8BM3}
-  - {name: 尼日6, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-NG-sessid-hh77lSeN-sessTime-15, password: dJIA8BM3}
-  - {name: 尼日7, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-NG-sessid-wYvuTZCf-sessTime-15, password: dJIA8BM3}
-  - {name: 尼日8, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-NG-sessid-9jDfJd04-sessTime-15, password: dJIA8BM3}
-  - {name: 尼日9, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-NG-sessid-c0Axrybl-sessTime-15, password: dJIA8BM3}
-  - {name: 尼日10, server: 82.153.135.9, port: 8012, type: socks5, username: 47353961-zone-custom-region-NG-sessid-BSAofA4H-sessTime-15, password: dJIA8BM3}
+  - {name: 尼日1, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-NG-sessid-9UAJvr9x-sessTime-15, password: dJIA8BM3}
+  - {name: 尼日2, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-NG-sessid-I1YiNFtI-sessTime-15, password: dJIA8BM3}
+  - {name: 尼日3, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-NG-sessid-wEFC9qss-sessTime-15, password: dJIA8BM3}
+  - {name: 尼日4, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-NG-sessid-Ld3Qh0dm-sessTime-15, password: dJIA8BM3}
+  - {name: 尼日5, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-NG-sessid-dBzMSixq-sessTime-15, password: dJIA8BM3}
+  - {name: 尼日6, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-NG-sessid-hh77lSeN-sessTime-15, password: dJIA8BM3}
+  - {name: 尼日7, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-NG-sessid-wYvuTZCf-sessTime-15, password: dJIA8BM3}
+  - {name: 尼日8, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-NG-sessid-9jDfJd04-sessTime-15, password: dJIA8BM3}
+  - {name: 尼日9, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-NG-sessid-c0Axrybl-sessTime-15, password: dJIA8BM3}
+  - {name: 尼日10, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-NG-sessid-BSAofA4H-sessTime-15, password: dJIA8BM3}
   - {name: 尼日11, server: 82.153.135.9, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-mDZf3XLJ}
   - {name: 尼日12, server: 82.153.135.9, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-h6L0gVOR}
   - {name: 尼日13, server: 82.153.135.9, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-ryRUlInE}
