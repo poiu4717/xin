@@ -1,0 +1,186 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: :9090
+dns:
+  enabled: true
+  nameserver:
+    - 119.29.29.29
+    - 223.5.5.5
+  fallback:
+    - 8.8.8.8
+    - 8.8.4.4
+    - tls://1.0.0.1:853
+    - tls://dns.google:853
+proxies:
+
+  - {name: 尼日1, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-NG-sessid-9UAJvr9x-sessTime-15, password: dJIA8BM3}
+  - {name: 尼日2, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-NG-sessid-I1YiNFtI-sessTime-15, password: dJIA8BM3}
+  - {name: 尼日3, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-NG-sessid-wEFC9qss-sessTime-15, password: dJIA8BM3}
+  - {name: 尼日4, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-NG-sessid-Ld3Qh0dm-sessTime-15, password: dJIA8BM3}
+  - {name: 尼日5, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-NG-sessid-dBzMSixq-sessTime-15, password: dJIA8BM3}
+  - {name: 尼日6, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-NG-sessid-hh77lSeN-sessTime-15, password: dJIA8BM3}
+  - {name: 尼日7, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-NG-sessid-wYvuTZCf-sessTime-15, password: dJIA8BM3}
+  - {name: 尼日8, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-NG-sessid-9jDfJd04-sessTime-15, password: dJIA8BM3}
+  - {name: 尼日9, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-NG-sessid-c0Axrybl-sessTime-15, password: dJIA8BM3}
+  - {name: 尼日10, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-NG-sessid-BSAofA4H-sessTime-15, password: dJIA8BM3}
+  - {name: 尼日11, server: 82.153.135.9, port: 18938, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-mDZf3XLJ}
+  - {name: 尼日12, server: 82.153.135.9, port: 18938, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-h6L0gVOR}
+  - {name: 尼日13, server: 82.153.135.9, port: 18938, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-ryRUlInE}
+  - {name: 尼日14, server: 82.153.135.9, port: 18938, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-8gP6dRLD}
+  - {name: 尼日15, server: 82.153.135.9, port: 18938, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-DeUWLA4M}
+
+  - {name: 土耳其1, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-TR-sessid-24yRPrCt-sessTime-30, password: dJIA8BM3}
+  - {name: 土耳其2, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-TR-sessid-iTGeG2P3-sessTime-30, password: dJIA8BM3}
+  - {name: 土耳其3, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-TR-sessid-6ei9zJwm-sessTime-30, password: dJIA8BM3}
+  - {name: 土耳其4, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-TR-sessid-oYT2IVUF-sessTime-30, password: dJIA8BM3}
+  - {name: 土耳其5, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-TR-sessid-QZYzywrE-sessTime-30, password: dJIA8BM3}
+  - {name: 土耳其6, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-TR-sessid-teVkzpw8-sessTime-30, password: dJIA8BM3}
+  - {name: 土耳其7, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-TR-sessid-jTJmapRc-sessTime-30, password: dJIA8BM3}
+  - {name: 土耳其8, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-TR-sessid-NOZO24m1-sessTime-30, password: dJIA8BM3}
+  - {name: 土耳其9, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-TR-sessid-ypvWpa8R-sessTime-30, password: dJIA8BM3}
+  - {name: 土耳其10, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-TR-sessid-1KZ4dVnr-sessTime-30, password: dJIA8BM3}
+
+  - {name: 菲律宾1, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-PH-sessid-oM55rraw-sessTime-30, password: dJIA8BM3}
+  - {name: 菲律宾2, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-PH-sessid-c3sRIqOG-sessTime-30, password: dJIA8BM3}
+  - {name: 菲律宾3, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-PH-sessid-XRFaqlfp-sessTime-30, password: dJIA8BM3}
+  - {name: 菲律宾4, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-PH-sessid-dLIwSpfR-sessTime-30, password: dJIA8BM3}
+  - {name: 菲律宾5, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-PH-sessid-rVbU4EjS-sessTime-30, password: dJIA8BM3}
+  - {name: 菲律宾6, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-PH-sessid-vSaXPZvD-sessTime-30, password: dJIA8BM3}
+  - {name: 菲律宾7, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-PH-sessid-N2l3tkyj-sessTime-30, password: dJIA8BM3}
+  - {name: 菲律宾8, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-PH-sessid-CNfA6ng0-sessTime-30, password: dJIA8BM3}
+  - {name: 菲律宾9, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-PH-sessid-h54VLNqB-sessTime-30, password: dJIA8BM3}
+  - {name: 菲律宾10, server: 82.153.135.9, port: 18912, type: socks5, username: 47353961-zone-custom-region-PH-sessid-gSs2jkMj-sessTime-30, password: dJIA8BM3}
+  - {name: 🇭🇰 香港_11, server: hk11.51feitu.com, port: 11011, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
+  - {name: 🇭🇰 香港_12, server: hk12.51feitu.com, port: 11012, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
+  - {name: 🇭🇰 香港_13, server: hk13.51feitu.com, port: 11013, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
+  - {name: 🇭🇰 香港_14, server: hk14.51feitu.com, port: 11014, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
+  - {name: 🇭🇰 香港_15, server: hk15.51feitu.com, port: 11015, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
+  - {name: 🇭🇰 香港_16, server: hk16.51feitu.com, port: 11016, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
+  - {name: 🇭🇰 香港_17, server: hk17.51feitu.com, port: 11017, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
+  - {name: 🇭🇰 香港_18, server: hk18.51feitu.com, port: 11018, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
+  - {name: 🇭🇰 香港_19, server: hk19.51feitu.com, port: 11019, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
+  - {name: 🇭🇰 香港_20, server: hk20.51feitu.com, port: 11020, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
+proxy-groups:
+  - name: Googleplay
+    type: select
+    proxies:
+
+      - 尼日1
+      - 尼日2
+      - 尼日3
+      - 尼日4
+      - 尼日5
+      - 尼日6
+      - 尼日7
+      - 尼日8
+      - 尼日9
+      - 尼日10
+      - 尼日11
+      - 尼日12
+      - 尼日13
+      - 尼日14
+      - 尼日15
+      - 土耳其1
+      - 土耳其2
+      - 土耳其3
+      - 土耳其4
+      - 土耳其5
+      - 土耳其6
+      - 土耳其7
+      - 土耳其8
+      - 土耳其9
+      - 土耳其10
+      - 菲律宾1
+      - 菲律宾2
+      - 菲律宾3
+      - 菲律宾4
+      - 菲律宾5
+      - 菲律宾6
+      - 菲律宾7
+      - 菲律宾8
+      - 菲律宾9
+      - 菲律宾10
+
+
+    url: http://www.gstatic.com/generate_204
+    interval: 600
+    udp: false
+  - name: Proxies
+    type: select
+    proxies:
+     
+      - 🇭🇰 香港_11
+      - 🇭🇰 香港_12
+      - 🇭🇰 香港_13
+      - 🇭🇰 香港_14
+      - 🇭🇰 香港_15
+      - 🇭🇰 香港_16
+      - 🇭🇰 香港_17
+      - 🇭🇰 香港_18
+      - 🇭🇰 香港_19
+      - 🇭🇰 香港_20
+
+rules:
+  - DOMAIN-SUFFIX,ipapi.co,Googleplay
+  - DOMAIN-SUFFIX,ip-api.com,Googleplay
+  - DOMAIN-SUFFIX,api.ip.sb,Googleplay
+  - DOMAIN-SUFFIX,IPInfo.io,Googleplay
+  - DOMAIN-SUFFIX,ipip.net,Googleplay
+  - DOMAIN-SUFFIX,skk.moe,Googleplay
+  - DOMAIN-KEYWORD,game,Proxies
+  - DOMAIN-KEYWORD,gvt1,Proxies
+  - DOMAIN-KEYWORD,googlevideo.com,Proxies
+  - DOMAIN-KEYWORD,lra8j.com,DIRECT
+  - DOMAIN-KEYWORD,cn,DIRECT
+  - DOMAIN,play-fe.googleapis.com,Googleplay
+  - IP-CIDR,172.217.160.110/32,Googleplay
+  - IP-CIDR,172.217.163.46/32,Googleplay
+  - IP-CIDR,172.217.160.78/32,Googleplay
+  - IP-CIDR,142.251.42.238/32,Googleplay
+  - IP-CIDR,142.251.43.14/32,Googleplay
+  - IP-CIDR,142.251.220.77/32,Googleplay
+  - IP-CIDR,142.251.42.237/32,Googleplay
+  - IP-CIDR,172.217.163.45/32,Googleplay
+  - IP-CIDR,142.250.204.78/32,Googleplay
+  - IP-CIDR,142.250.66.142/32,Googleplay
+  - DOMAIN-SUFFIX,1password.com,DIRECT
+  - DOMAIN-SUFFIX,vultr.com,DIRECT
+  - DOMAIN-SUFFIX,mb3admin.com,DIRECT
+  - DOMAIN-SUFFIX,rixcloud.io,DIRECT
+  - DOMAIN-SUFFIX,tempestapp.io,DIRECT
+  - DOMAIN-SUFFIX,baidu.com,DIRECT
+  - DOMAIN-SUFFIX,baidu-int.com,DIRECT
+  - DOMAIN-SUFFIX,erebor.douban.com,DIRECT
+  - DOMAIN,mtalk.google.com,DIRECT
+  - DOMAIN,alt1-mtalk.google.com,DIRECT
+  - DOMAIN,alt2-mtalk.google.com,DIRECT
+  - DOMAIN,alt3-mtalk.google.com,DIRECT
+  - DOMAIN,alt4-mtalk.google.com,DIRECT
+  - DOMAIN,alt5-mtalk.google.com,DIRECT
+  - DOMAIN,alt6-mtalk.google.com,DIRECT
+  - DOMAIN,alt7-mtalk.google.com,DIRECT
+  - DOMAIN,alt8-mtalk.google.com,DIRECT
+  - DOMAIN,alt9-mtalk.google.com,DIRECT
+  - DOMAIN,captive.apple.com,DIRECT
+  - DOMAIN,time-ios.apple.com,DIRECT
+  - DOMAIN-SUFFIX,gateway.push-apple.com.akadns.net,DIRECT
+  - DOMAIN-SUFFIX,push.apple.com,DIRECT
+  - DOMAIN-KEYWORD,github,Proxies
+  - DOMAIN-SUFFIX,github.com,Proxies
+  - DOMAIN-SUFFIX,github.io,Proxies
+  - DOMAIN-SUFFIX,githubapp.com,Proxies
+  - DOMAIN-SUFFIX,githubassets.com,Proxies
+  - DOMAIN-SUFFIX,githubusercontent.com,Proxies
+  - DOMAIN-SUFFIX,home-intl.console.aliyun.com,Proxies
+  - DOMAIN-SUFFIX,googleapis.cn,Proxies
+  - DOMAIN-SUFFIX,maying.co,Proxies
+  - DOMAIN-SUFFIX,flowercloud.net,Proxies
+  - DOMAIN-SUFFIX,socloud.me,Proxies
+  - DOMAIN-SUFFIX,ytoo.asia,Proxies
+  - DOMAIN-SUFFIX,ytoo.co.uk,Proxies
+  - GEOIP,CN,DIRECT
+  - MATCH,Proxies
+  - MATCH,Proxies
