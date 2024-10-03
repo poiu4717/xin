@@ -16,43 +16,37 @@ dns:
     - tls://dns.google:853
 proxies:
 
-  - {name: 尼日1, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-NG-sessid-9UAJvr9x-sessTime-15, password: dJIA8BM3}
-  - {name: 尼日2, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-NG-sessid-I1YiNFtI-sessTime-15, password: dJIA8BM3}
-  - {name: 尼日3, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-NG-sessid-wEFC9qss-sessTime-15, password: dJIA8BM3}
-  - {name: 尼日4, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-NG-sessid-Ld3Qh0dm-sessTime-15, password: dJIA8BM3}
-  - {name: 尼日5, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-NG-sessid-dBzMSixq-sessTime-15, password: dJIA8BM3}
-  - {name: 尼日6, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-NG-sessid-hh77lSeN-sessTime-15, password: dJIA8BM3}
-  - {name: 尼日7, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-NG-sessid-wYvuTZCf-sessTime-15, password: dJIA8BM3}
-  - {name: 尼日8, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-NG-sessid-9jDfJd04-sessTime-15, password: dJIA8BM3}
-  - {name: 尼日9, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-NG-sessid-c0Axrybl-sessTime-15, password: dJIA8BM3}
-  - {name: 尼日10, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-NG-sessid-BSAofA4H-sessTime-15, password: dJIA8BM3}
-  - {name: 尼日11, server: 47.237.133.236, port: 18938, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-mDZf3XLJ}
-  - {name: 尼日12, server: 47.237.133.236, port: 18938, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-h6L0gVOR}
-  - {name: 尼日13, server: 47.237.133.236, port: 18938, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-ryRUlInE}
-  - {name: 尼日14, server: 47.237.133.236, port: 18938, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-8gP6dRLD}
-  - {name: 尼日15, server: 47.237.133.236, port: 18938, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-DeUWLA4M}
+  - {name: 尼日1, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-YclM496p}
+  - {name: 尼日2, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-M9WYuvTU}
+  - {name: 尼日3, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-5WEOa7cw}
+  - {name: 尼日4, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-t8Fen2xi}
+  - {name: 尼日5, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-GMFu7Y9p}
+  - {name: 尼日6, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-ETbpmtSv}
+  - {name: 尼日7, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-6SPXQmVG}
+  - {name: 尼日8, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-NU75BwG0}
+  - {name: 尼日9, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-nszKiSyO}
+  - {name: 尼日10, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-DeUWLA4M}
+  - {name: 土耳其1, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-DdboUk3r}
+  - {name: 土耳其2, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-YnrR5E1c}
+  - {name: 土耳其3, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-3zmP8b1d}
+  - {name: 土耳其4, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-V6tYRXDu}
+  - {name: 土耳其5, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-bgDXZtaB}
+  - {name: 土耳其6, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-gLJ6dkcR}
+  - {name: 土耳其7, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-VcoLGRvD}
+  - {name: 土耳其8, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-O152K6u0}
+  - {name: 土耳其9, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-uQkgMq0Y}
+  - {name: 土耳其10, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-VYpIj7C3}
+  - {name: 菲律宾1, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-I85YqGzF}
+  - {name: 菲律宾2, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-oXhunRK8}
+  - {name: 菲律宾3, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-Aw2HcN8F}
+  - {name: 菲律宾4, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-FPGgJRsL}
+  - {name: 菲律宾5, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-xqbj7kHz}
+  - {name: 菲律宾6, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-ocGVsw4y}
+  - {name: 菲律宾7, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-uY8kjmtW}
+  - {name: 菲律宾8, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-5eiZ3jlg}
+  - {name: 菲律宾9, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-IFWUhV2S}
+  - {name: 菲律宾10, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-VSaH9iAo}
 
-  - {name: 土耳其1, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-TR-sessid-24yRPrCt-sessTime-30, password: dJIA8BM3}
-  - {name: 土耳其2, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-TR-sessid-iTGeG2P3-sessTime-30, password: dJIA8BM3}
-  - {name: 土耳其3, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-TR-sessid-6ei9zJwm-sessTime-30, password: dJIA8BM3}
-  - {name: 土耳其4, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-TR-sessid-oYT2IVUF-sessTime-30, password: dJIA8BM3}
-  - {name: 土耳其5, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-TR-sessid-QZYzywrE-sessTime-30, password: dJIA8BM3}
-  - {name: 土耳其6, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-TR-sessid-teVkzpw8-sessTime-30, password: dJIA8BM3}
-  - {name: 土耳其7, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-TR-sessid-jTJmapRc-sessTime-30, password: dJIA8BM3}
-  - {name: 土耳其8, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-TR-sessid-NOZO24m1-sessTime-30, password: dJIA8BM3}
-  - {name: 土耳其9, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-TR-sessid-ypvWpa8R-sessTime-30, password: dJIA8BM3}
-  - {name: 土耳其10, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-TR-sessid-1KZ4dVnr-sessTime-30, password: dJIA8BM3}
-
-  - {name: 菲律宾1, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-PH-sessid-oM55rraw-sessTime-30, password: dJIA8BM3}
-  - {name: 菲律宾2, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-PH-sessid-c3sRIqOG-sessTime-30, password: dJIA8BM3}
-  - {name: 菲律宾3, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-PH-sessid-XRFaqlfp-sessTime-30, password: dJIA8BM3}
-  - {name: 菲律宾4, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-PH-sessid-dLIwSpfR-sessTime-30, password: dJIA8BM3}
-  - {name: 菲律宾5, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-PH-sessid-rVbU4EjS-sessTime-30, password: dJIA8BM3}
-  - {name: 菲律宾6, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-PH-sessid-vSaXPZvD-sessTime-30, password: dJIA8BM3}
-  - {name: 菲律宾7, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-PH-sessid-N2l3tkyj-sessTime-30, password: dJIA8BM3}
-  - {name: 菲律宾8, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-PH-sessid-CNfA6ng0-sessTime-30, password: dJIA8BM3}
-  - {name: 菲律宾9, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-PH-sessid-h54VLNqB-sessTime-30, password: dJIA8BM3}
-  - {name: 菲律宾10, server: 47.237.133.236, port: 18938, type: socks5, username: 47353961-zone-custom-region-PH-sessid-gSs2jkMj-sessTime-30, password: dJIA8BM3}
   - {name: 🇭🇰 香港_11, server: hk11.51feitu.com, port: 11011, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
   - {name: 🇭🇰 香港_12, server: hk12.51feitu.com, port: 11012, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
   - {name: 🇭🇰 香港_13, server: hk13.51feitu.com, port: 11013, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
@@ -83,16 +77,16 @@ proxy-groups:
       - 尼日13
       - 尼日14
       - 尼日15
-      - 土耳其1
-      - 土耳其2
-      - 土耳其3
-      - 土耳其4
-      - 土耳其5
-      - 土耳其6
-      - 土耳其7
-      - 土耳其8
-      - 土耳其9
-      - 土耳其10
+      - 菲律宾耳其耳其1
+      - 菲律宾耳其耳其2
+      - 菲律宾耳其耳其3
+      - 菲律宾耳其耳其4
+      - 菲律宾耳其耳其5
+      - 菲律宾耳其耳其6
+      - 菲律宾耳其耳其7
+      - 菲律宾耳其耳其8
+      - 菲律宾耳其耳其9
+      - 菲律宾耳其耳其10
       - 菲律宾1
       - 菲律宾2
       - 菲律宾3
@@ -184,4 +178,5 @@ rules:
   - GEOIP,CN,DIRECT
   - MATCH,Proxies
   - MATCH,Proxies
+
 
