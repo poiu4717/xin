@@ -28,11 +28,11 @@ proxies:
   - {name: 尼日8, server: sg-iepl.com, port: 58815, type: socks5, username: 47353961-zone-custom-region-NG-sessid-J5CQIAYz-sessTime-120, password: dJIA8BM3}
   - {name: 尼日9, server: sg-iepl.com, port: 58815, type: socks5, username: 47353961-zone-custom-region-NG-sessid-qTMQG1Vp-sessTime-120, password: dJIA8BM3}
   - {name: 尼日10, server: sg-iepl.com, port: 58815, type: socks5, username: 47353961-zone-custom-region-NG-sessid-iuczjfkw-sessTime-120, password: dJIA8BM3}
-  - {name: 尼日11, server: sg-iepl.com, port: 18938, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-mDZf3XLJ}
-  - {name: 尼日12, server: sg-iepl.com, port: 18938, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-h6L0gVOR}
-  - {name: 尼日13, server: sg-iepl.com, port: 18938, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-ryRUlInE}
-  - {name: 尼日14, server: sg-iepl.com, port: 18938, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-8gP6dRLD}
-  - {name: 尼日15, server: sg-iepl.com, port: 18938, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-DeUWLA4M}
+  - {name: 尼日11, server: sg-iepl.com, port: 26216, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-mDZf3XLJ}
+  - {name: 尼日12, server: sg-iepl.com, port: 26216, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-h6L0gVOR}
+  - {name: 尼日13, server: sg-iepl.com, port: 26216, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-ryRUlInE}
+  - {name: 尼日14, server: sg-iepl.com, port: 26216, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-8gP6dRLD}
+  - {name: 尼日15, server: sg-iepl.com, port: 26216, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-DeUWLA4M}
   - {name: 埃及1, server: sg-iepl.com, port: 58815, type: socks5, username: 47353961-zone-custom-region-EG-sessid-zfMZZBQq-sessTime-15, password: dJIA8BM3}
   - {name: 埃及2, server: sg-iepl.com, port: 58815, type: socks5, username: 47353961-zone-custom-region-EG-sessid-SmmPVJOy-sessTime-15, password: dJIA8BM3}
   - {name: 埃及3, server: sg-iepl.com, port: 58815, type: socks5, username: 47353961-zone-custom-region-EG-sessid-Eyhoe4xZ-sessTime-15, password: dJIA8BM3}
@@ -61,21 +61,21 @@ proxies:
   - {name: 土耳其3, server: sg-iepl.com, port: 58815, type: socks5, username: 47353961-zone-custom-region-TR-sessid-ecz15ucd-sessTime-15, password: dJIA8BM3}
   - {name: 土耳其4, server: sg-iepl.com, port: 58815, type: socks5, username: 47353961-zone-custom-region-TR-sessid-706EHOSq-sessTime-15, password: dJIA8BM3}
   - {name: 土耳其5, server: sg-iepl.com, port: 58815, type: socks5, username: 47353961-zone-custom-region-TR-sessid-CrAcKL7u-sessTime-15, password: dJIA8BM3}
-  - {name: 土耳其6, server: sg-iepl.com, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-nbKCLM9k}
-  - {name: 土耳其7, server: sg-iepl.com, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-hpvID9LA}
-  - {name: 土耳其8, server: sg-iepl.com, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-EQq86W7A}
-  - {name: 土耳其9, server: sg-iepl.com, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-BKhJacZV}
-  - {name: 土耳其10, server: sg-iepl.com, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-9WytzQkN}
+  - {name: 土耳其6, server: sg-iepl.com, port: 26216, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-nbKCLM9k}
+  - {name: 土耳其7, server: sg-iepl.com, port: 26216, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-hpvID9LA}
+  - {name: 土耳其8, server: sg-iepl.com, port: 26216, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-EQq86W7A}
+  - {name: 土耳其9, server: sg-iepl.com, port: 26216, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-BKhJacZV}
+  - {name: 土耳其10, server: sg-iepl.com, port: 26216, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-9WytzQkN}
   - {name: 哥伦比亚1, server: sg-iepl.com, port: 58815, type: socks5, username: 47353961-zone-custom-region-Co-sessid-Lj6inmAX-sessTime-15, password: dJIA8BM3}
   - {name: 哥伦比亚2, server: sg-iepl.com, port: 58815, type: socks5, username: 47353961-zone-custom-region-Co-sessid-z2S3kzRe-sessTime-15, password: dJIA8BM3}
   - {name: 哥伦比亚3, server: sg-iepl.com, port: 58815, type: socks5, username: 47353961-zone-custom-region-Co-sessid-d6dcv2Tk-sessTime-15, password: dJIA8BM3}
   - {name: 哥伦比亚4, server: sg-iepl.com, port: 58815, type: socks5, username: 47353961-zone-custom-region-Co-sessid-GtMs4T8c-sessTime-15, password: dJIA8BM3}
   - {name: 哥伦比亚5, server: sg-iepl.com, port: 58815, type: socks5, username: 47353961-zone-custom-region-Co-sessid-n3TReYQ0-sessTime-15, password: dJIA8BM3}
-  - {name: 哥伦比亚6, server: sg-iepl.com, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-hBmboQ1V}
-  - {name: 哥伦比亚7, server: sg-iepl.com, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-gP13D9lh}
-  - {name: 哥伦比亚8, server: sg-iepl.com, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-D6VHOu7E}
-  - {name: 哥伦比亚9, server: sg-iepl.com, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-aQXmlf7w}
-  - {name: 哥伦比亚10, server: sg-iepl.com, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-V0NUkncP}
+  - {name: 哥伦比亚6, server: sg-iepl.com, port: 26216, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-hBmboQ1V}
+  - {name: 哥伦比亚7, server: sg-iepl.com, port: 26216, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-gP13D9lh}
+  - {name: 哥伦比亚8, server: sg-iepl.com, port: 26216, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-D6VHOu7E}
+  - {name: 哥伦比亚9, server: sg-iepl.com, port: 26216, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-aQXmlf7w}
+  - {name: 哥伦比亚10, server: sg-iepl.com, port: 26216, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-V0NUkncP}
 proxy-providers:
           机场:
             type: http
