@@ -17,19 +17,19 @@ dns:
 proxies:
 
  
-  - {name: 🇭🇰 hk1, server: 34.141.219.7, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm}
-  - {name: 🇭🇰 HK2, server: 34.141.219.7, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm}
+  - {name: 🇭🇰 hk1, server: sg-iepl.com, port: 61369, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
+  - {name: 🇭🇰 HK2, server: sg-iepl.com, port: 61369, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
 
-  - {name: 缅甸1, server: 34.141.219.7, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm}
-  - {name: 缅甸2, server: 34.141.219.7, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm}
-  - {name: 缅甸3, server: 34.141.219.7, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm}
-  - {name: 缅甸4, server: 34.141.219.7, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm}
-  - {name: 缅甸5, server: 34.141.219.7, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm}
-  - {name: 缅甸6, server: 34.141.219.7, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm}
-  - {name: 缅甸7, server: 34.141.219.7, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm}
-  - {name: 缅甸8, server: 34.141.219.7, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm}
-  - {name: 缅甸9, server: 34.141.219.7, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm}
-  - {name: 缅甸10, server: 34.141.219.7, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm}
+  - {name: 缅甸1, server: sg-iepl.com, port: 61369, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
+  - {name: 缅甸2, server: sg-iepl.com, port: 61369, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
+  - {name: 缅甸3, server: sg-iepl.com, port: 61369, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
+  - {name: 缅甸4, server: sg-iepl.com, port: 61369, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
+  - {name: 缅甸5, server: sg-iepl.com, port: 61369, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
+  - {name: 缅甸6, server: sg-iepl.com, port: 61369, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
+  - {name: 缅甸7, server: sg-iepl.com, port: 61369, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
+  - {name: 缅甸8, server: sg-iepl.com, port: 61369, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
+  - {name: 缅甸9, server: sg-iepl.com, port: 61369, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
+  - {name: 缅甸10, server: sg-iepl.com, port: 61369, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
 
 proxy-providers:
           机场:
