@@ -68,9 +68,7 @@ proxy-groups:
   - name: Proxies
     type: select
     proxies:
-     
-      - 🇭🇰 hk1
-      - 🇭🇰 HK2
+
     use:
       - 机场
 
