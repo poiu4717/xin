@@ -17,6 +17,8 @@ dns:
 proxies:
 
  
+  - {name: 🇭🇰 hk1, server: sg-iepl.com, port: 61369, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm}
+  - {name: 🇭🇰 HK2, server: sg-iepl.com, port: 61369, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm}
 
   - {name: 缅甸1, server: sg-iepl.com, port: 61369, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm}
   - {name: 缅甸2, server: sg-iepl.com, port: 61369, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm}
@@ -68,7 +70,9 @@ proxy-groups:
   - name: Proxies
     type: select
     proxies:
-
+     
+      - 🇭🇰 hk1
+      - 🇭🇰 HK2
     use:
       - 机场
 
