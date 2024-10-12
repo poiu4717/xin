@@ -17,19 +17,19 @@ dns:
 proxies:
 
  
-  - {name: 🇭🇰 hk1, server: 34.141.138.189, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
-  - {name: 🇭🇰 HK2, server: 34.141.138.189, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
+  - {name: 🇭🇰 hk1, server: 106.75.152.119, port: 1000, type: socks5, username: 349faf68-62c8f1f0-018953, password: mobile-mm---}
+  - {name: 🇭🇰 HK2, server: 106.75.152.119, port: 1000, type: socks5, username: 349faf68-62c8f1f0-018953, password: mobile-mm---}
 
-  - {name: 缅甸1, server: 34.141.138.189, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
-  - {name: 缅甸2, server: 34.141.138.189, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
-  - {name: 缅甸3, server: 34.141.138.189, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
-  - {name: 缅甸4, server: 34.141.138.189, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
-  - {name: 缅甸5, server: 34.141.138.189, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
-  - {name: 缅甸6, server: 34.141.138.189, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
-  - {name: 缅甸7, server: 34.141.138.189, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
-  - {name: 缅甸8, server: 34.141.138.189, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
-  - {name: 缅甸9, server: 34.141.138.189, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
-  - {name: 缅甸10, server: 34.141.138.189, port: 9000, type: socks5, username: 349faf68-62c8f1f0-bb9e3b, password: mobile-mm---}
+  - {name: 缅甸1, server: 106.75.152.119, port: 1000, type: socks5, username: 349faf68-62c8f1f0-018953, password: mobile-mm---}
+  - {name: 缅甸2, server: 106.75.152.119, port: 1001, type: socks5, username: 349faf68-62c8f1f0-6da9ea, password: mobile-mm---}
+  - {name: 缅甸3, server: 106.75.152.119, port: 1002, type: socks5, username: 349faf68-62c8f1f0-542133, password: mobile-mm---}
+  - {name: 缅甸4, server: 106.75.152.119, port: 1003, type: socks5, username: 349faf68-62c8f1f0-49da7a, password: mobile-mm---}
+  - {name: 缅甸5, server: 106.75.152.119, port: 1004, type: socks5, username: 349faf68-62c8f1f0-39b9bc, password: mobile-mm---}
+  - {name: 缅甸6, server: 106.75.152.119, port: 1005, type: socks5, username: 349faf68-62c8f1f0-dafadf, password: mobile-mm---}
+  - {name: 缅甸7, server: 106.75.152.119, port: 1006, type: socks5, username: 349faf68-62c8f1f0-4a9764, password: mobile-mm---}
+  - {name: 缅甸8, server: 106.75.152.119, port: 1007, type: socks5, username: 349faf68-62c8f1f0-597e51, password: mobile-mm---}
+  - {name: 缅甸9, server: 106.75.152.119, port: 1008, type: socks5, username: 349faf68-62c8f1f0-3a49ed, password: mobile-mm---}
+  - {name: 缅甸10, server: 106.75.152.119, port: 1009, type: socks5, username: 349faf68-62c8f1f0-e4affd, password: mobile-mm---}
 
 proxy-providers:
           机场:
@@ -138,4 +138,5 @@ rules:
   - DOMAIN-SUFFIX,ytoo.asia,Proxies
   - DOMAIN-SUFFIX,ytoo.co.uk,Proxies
   - GEOIP,CN,DIRECT
+  - MATCH,Proxies
   - MATCH,Proxies
