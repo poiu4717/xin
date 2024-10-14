@@ -70,6 +70,7 @@ proxies:
   - {name: 🇯🇵 日本01-高速|CU, server: bgp.leishen5288.top, port: 39012, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
   - {name: 🇯🇵 日本02-高速|BGP, server: asd.leishen5288.top, port: 32017, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
   - {name: 🇯🇵 日本03-高速|CU, server: bgp.leishen5288.top, port: 32018, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
+  - {name: 🇯🇵 日本04-高速|BGP, server: asd.leishen5288.top, port: 32109, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
 proxy-groups:
   - name: Googleplay
     type: select
