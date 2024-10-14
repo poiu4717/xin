@@ -77,16 +77,17 @@ proxies:
   - {name: 哥伦比亚9, server: sg-iepl.com, port: 26216, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-aQXmlf7w}
   - {name: 哥伦比亚10, server: sg-iepl.com, port: 26216, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-V0NUkncP}
 proxy-providers:
-          机场:
-            type: http
-            url: https://sub.id9.cc/sub?target=clash&new_name=true&url=https%3A%2F%2Fleishen.02000.net%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D12c7bd5bd70a89afb06ce7aa2803ecd7&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini
-            interval: 86400
-            path: ./proxy_provider/jc.yaml
-            udp: false
-            health-check:
-              enable: true
-              interval: 600
-              url: http://www.gstatic.com/generate_204  
+    #自定义机场名称subscribe_groups
+    subscribe_groups:
+        type: http # http 的 path 可空置,默认储存路径为 homedir的proxies文件夹,文件名为url的md5
+        url: "https://sub.id9.cc/sub?target=clash&new_name=true&url=https%3A%2F%2Fleishen.02000.net%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D12c7bd5bd70a89afb06ce7aa2803ecd7&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini" #订阅链接存放在双引号内
+        interval: 86400 #机场订阅自动更新时间 单位：秒
+        path: ./hj_sub.yaml # 默认只允许存储在 clash 的 Home Dir，如果想存储到任意位置，添加环境变量 SKIP_SAFE_PATH_CHECK=1
+        health-check:
+            enable: true
+            interval: 156
+            # lazy: true
+            url: http://cp.cloudflare.com/generate_204
 
 proxy-groups:
   - name: Googleplay
@@ -161,7 +162,7 @@ proxy-groups:
       - 🇭🇰 hk1
       - 🇭🇰 HK2
     use:
-      - 机场
+      - scribe_groups
 
     url: http://www.gstatic.com/generate_204
     interval: 600
