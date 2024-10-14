@@ -138,8 +138,6 @@ proxy-groups:
       - 🇯🇵 日本01-高速|CU
       - 🇯🇵 日本02-高速|BGP
       - 🇯🇵 日本03-高速|CU
- 
-
 rules:
   - DOMAIN-SUFFIX,ipapi.co,Googleplay
   - DOMAIN-SUFFIX,ip-api.com,Googleplay
