@@ -76,6 +76,20 @@ proxies:
   - {name: 哥伦比亚8, server: 82.153.135.9, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-D6VHOu7E}
   - {name: 哥伦比亚9, server: 82.153.135.9, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-aQXmlf7w}
   - {name: 哥伦比亚10, server: 82.153.135.9, port: 3002, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-V0NUkncP}
+  - {name: 🇭🇰 香港01-高速|CU, server: bgp.leishen5288.top, port: 31000, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
+  - {name: 🇭🇰 香港02-高速|BGP, server: asd.leishen5288.top, port: 31014, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
+  - {name: 🇭🇰 香港03-高速|CU, server: bgp.leishen5288.top, port: 31008, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
+  - {name: 🇭🇰 香港04-高速|BGP, server: asd.leishen5288.top, port: 30012, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
+  - {name: 🇭🇰 香港05-高速|CU, server: bgp.leishen5288.top, port: 31004, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
+  - {name: 🇭🇰 香港06-高速||BGP, server: asd.leishen5288.top, port: 31106, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
+  - {name: 🇨🇳 台湾01-高速|CU, server: bgp.leishen5288.top, port: 32011, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
+  - {name: 🇨🇳 台湾02-高速||BGP, server: asd.leishen5288.top, port: 33144, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
+  - {name: 🇨🇳 台湾03-高速|CU, server: bgp.leishen5288.top, port: 32099, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
+  - {name: 🇨🇳 台湾04-高速|BGP, server: asd.leishen5288.top, port: 33133, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
+  - {name: 🇯🇵 日本01-高速|CU, server: bgp.leishen5288.top, port: 39012, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
+  - {name: 🇯🇵 日本02-高速|BGP, server: asd.leishen5288.top, port: 32017, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
+  - {name: 🇯🇵 日本03-高速|CU, server: bgp.leishen5288.top, port: 32018, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
+  - {name: 🇯🇵 日本04-高速|BGP, server: asd.leishen5288.top, port: 32109, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
 proxy-providers:
           机场:
             type: http
@@ -160,6 +174,20 @@ proxy-groups:
      
       - 🇭🇰 hk1
       - 🇭🇰 HK2
+      - 🇭🇰 香港01-高速|CU
+      - 🇭🇰 香港02-高速|BGP
+      - 🇭🇰 香港03-高速|CU
+      - 🇭🇰 香港04-高速|BGP
+      - 🇭🇰 香港05-高速|CU
+      - 🇭🇰 香港06-高速||BGP
+      - 🇨🇳 台湾01-高速|CU
+      - 🇨🇳 台湾02-高速||BGP
+      - 🇨🇳 台湾03-高速|CU
+      - 🇨🇳 台湾04-高速|BGP
+      - 🇯🇵 日本01-高速|CU
+      - 🇯🇵 日本02-高速|BGP
+      - 🇯🇵 日本03-高速|CU
+      - 🇯🇵 日本04-高速|BGP
     use:
       - 机场
 
