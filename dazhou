@@ -71,6 +71,11 @@ proxies:
   - {name: 哥伦比亚3, server: sg-iepl.com, port: 55587, type: socks5, username: 47353961-zone-custom-region-Co-sessid-d6dcv2Tk-sessTime-15, password: dJIA8BM3}
   - {name: 哥伦比亚4, server: sg-iepl.com, port: 55587, type: socks5, username: 47353961-zone-custom-region-Co-sessid-GtMs4T8c-sessTime-15, password: dJIA8BM3}
   - {name: 哥伦比亚5, server: sg-iepl.com, port: 55587, type: socks5, username: 47353961-zone-custom-region-Co-sessid-n3TReYQ0-sessTime-15, password: dJIA8BM3}
+  - {name: 印尼1, server: sg-iepl.com, port: 55587, type: socks5, username: 47353961-zone-custom-region-ID-sessid-RSIzQmeb-sessTime-30, password: dJIA8BM3}
+  - {name: 印尼2, server: sg-iepl.com, port: 55587, type: socks5, username: 47353961-zone-custom-region-ID-sessid-4QH36SVh-sessTime-30, password: dJIA8BM3}
+  - {name: 印尼3, server: sg-iepl.com, port: 55587, type: socks5, username: 47353961-zone-custom-region-ID-sessid-F3DmVcNU-sessTime-30, password: dJIA8BM3}
+  - {name: 印尼4, server: sg-iepl.com, port: 55587, type: socks5, username: 47353961-zone-custom-region-ID-sessid-9qTQumKu-sessTime-30, password: dJIA8BM3}
+  - {name: 印尼5, server: sg-iepl.com, port: 55587, type: socks5, username: 47353961-zone-custom-region-ID-sessid-rcGCDSkQ-sessTime-30, password: dJIA8BM3}
   - {name: 哥伦比亚6, server: sg-iepl.com, port: 33055, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-hBmboQ1V}
   - {name: 哥伦比亚7, server: sg-iepl.com, port: 33055, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-gP13D9lh}
   - {name: 哥伦比亚8, server: sg-iepl.com, port: 33055, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-D6VHOu7E}
@@ -133,7 +138,11 @@ proxy-groups:
       - 埃及8
       - 埃及9
       - 埃及10
- 
+      - 印尼1
+      - 印尼2
+      - 印尼3
+      - 印尼4
+      - 印尼5
       - 缅甸1
       - 缅甸2
       - 缅甸3
