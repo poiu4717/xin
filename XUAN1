@@ -16,36 +16,36 @@ dns:
     - tls://dns.google:853
 proxies:
 
-  - {name: 尼日1, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-YclM496p}
-  - {name: 尼日2, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-M9WYuvTU}
-  - {name: 尼日3, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-5WEOa7cw}
-  - {name: 尼日4, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-t8Fen2xi}
-  - {name: 尼日5, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-GMFu7Y9p}
-  - {name: 尼日6, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-ETbpmtSv}
-  - {name: 尼日7, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-6SPXQmVG}
-  - {name: 尼日8, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-NU75BwG0}
-  - {name: 尼日9, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-nszKiSyO}
-  - {name: 尼日10, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-DeUWLA4M}
-  - {name: 土耳其1, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-DdboUk3r}
-  - {name: 土耳其2, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-YnrR5E1c}
-  - {name: 土耳其3, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-3zmP8b1d}
-  - {name: 土耳其4, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-V6tYRXDu}
-  - {name: 土耳其5, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-bgDXZtaB}
-  - {name: 土耳其6, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-gLJ6dkcR}
-  - {name: 土耳其7, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-VcoLGRvD}
-  - {name: 土耳其8, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-O152K6u0}
-  - {name: 土耳其9, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-uQkgMq0Y}
-  - {name: 土耳其10, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-VYpIj7C3}
-  - {name: 菲律宾1, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-I85YqGzF}
-  - {name: 菲律宾2, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-oXhunRK8}
-  - {name: 菲律宾3, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-Aw2HcN8F}
-  - {name: 菲律宾4, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-FPGgJRsL}
-  - {name: 菲律宾5, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-xqbj7kHz}
-  - {name: 菲律宾6, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-ocGVsw4y}
-  - {name: 菲律宾7, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-uY8kjmtW}
-  - {name: 菲律宾8, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-5eiZ3jlg}
-  - {name: 菲律宾9, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-IFWUhV2S}
-  - {name: 菲律宾10, server: 47.237.133.236, port: 18937, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-VSaH9iAo}
+  - {name: 尼日1, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-YclM496p}
+  - {name: 尼日2, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-M9WYuvTU}
+  - {name: 尼日3, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-5WEOa7cw}
+  - {name: 尼日4, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-t8Fen2xi}
+  - {name: 尼日5, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-GMFu7Y9p}
+  - {name: 尼日6, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-ETbpmtSv}
+  - {name: 尼日7, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-6SPXQmVG}
+  - {name: 尼日8, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-NU75BwG0}
+  - {name: 尼日9, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-nszKiSyO}
+  - {name: 尼日10, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ng_session-DeUWLA4M}
+  - {name: 土耳其1, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-DdboUk3r}
+  - {name: 土耳其2, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-YnrR5E1c}
+  - {name: 土耳其3, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-3zmP8b1d}
+  - {name: 土耳其4, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-V6tYRXDu}
+  - {name: 土耳其5, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-bgDXZtaB}
+  - {name: 土耳其6, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-gLJ6dkcR}
+  - {name: 土耳其7, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-VcoLGRvD}
+  - {name: 土耳其8, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-O152K6u0}
+  - {name: 土耳其9, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-uQkgMq0Y}
+  - {name: 土耳其10, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-tr_session-VYpIj7C3}
+  - {name: 菲律宾1, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-I85YqGzF}
+  - {name: 菲律宾2, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-oXhunRK8}
+  - {name: 菲律宾3, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-Aw2HcN8F}
+  - {name: 菲律宾4, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-FPGgJRsL}
+  - {name: 菲律宾5, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-xqbj7kHz}
+  - {name: 菲律宾6, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-ocGVsw4y}
+  - {name: 菲律宾7, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-uY8kjmtW}
+  - {name: 菲律宾8, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-5eiZ3jlg}
+  - {name: 菲律宾9, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-IFWUhV2S}
+  - {name: 菲律宾10, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-VSaH9iAo}
 
   - {name: 🇭🇰 香港_11, server: hk11.51feitu.com, port: 11011, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
   - {name: 🇭🇰 香港_12, server: hk12.51feitu.com, port: 11012, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
@@ -71,6 +71,19 @@ proxies:
   - {name: 🇯🇵 日本02-高速|BGP, server: asd.leishen5288.top, port: 32017, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
   - {name: 🇯🇵 日本03-高速|CU, server: bgp.leishen5288.top, port: 32018, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
   - {name: 🇯🇵 日本04-高速|BGP, server: asd.leishen5288.top, port: 32109, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
+proxy-providers:
+    
+    机场:
+        type: http # http 的 path 可空置,默认储存路径为 homedir的proxies文件夹,文件名为url的md5
+        url: "https://eset4.ue668.com/api/v1/client/subscribe?token=fbd926146bdcd735f5f644a9ea30d5d0" #订阅链接存放在双引号内
+        interval: 86400 #机场订阅自动更新时间 单位：秒
+        path: ./hj_sub.yaml # 默认只允许存储在 clash 的 Home Dir，如果想存储到任意位置，添加环境变量 SKIP_SAFE_PATH_CHECK=1
+        health-check:
+            enable: true
+            interval: 156
+            # lazy: true
+            url: http://cp.cloudflare.com/generate_204
+
 proxy-groups:
   - name: Googleplay
     type: select
@@ -138,7 +151,20 @@ proxy-groups:
       - 🇨🇳 台湾04-高速|BGP
       - 🇯🇵 日本01-高速|CU
       - 🇯🇵 日本02-高速|BGP
-      - 🇯🇵 日本03-高速|CU
+      - 🇯🇵 日本proxy-providers:
+    
+    机场:
+        type: http # http 的 path 可空置,默认储存路径为 homedir的proxies文件夹,文件名为url的md5
+        url: "https://eset4.ue668.com/api/v1/client/subscribe?token=fbd926146bdcd735f5f644a9ea30d5d0" #订阅链接存放在双引号内
+        interval: 86400 #机场订阅自动更新时间 单位：秒
+        path: ./hj_sub.yaml # 默认只允许存储在 clash 的 Home Dir，如果想存储到任意位置，添加环境变量 SKIP_SAFE_PATH_CHECK=1
+        health-check:
+            enable: true
+            interval: 156
+            # lazy: true
+            url: http://cp.cloudflare.com/generate_204
+03-高速|CU
+
 rules:
   - DOMAIN-SUFFIX,ipapi.co,Googleplay
   - DOMAIN-SUFFIX,ip-api.com,Googleplay
@@ -200,5 +226,8 @@ rules:
   - GEOIP,CN,DIRECT
   - MATCH,Proxies
   - MATCH,Proxies
+
+
+
 
 
