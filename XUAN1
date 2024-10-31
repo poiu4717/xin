@@ -71,6 +71,18 @@ proxies:
   - {name: 🇯🇵 日本02-高速|BGP, server: asd.leishen5288.top, port: 32017, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
   - {name: 🇯🇵 日本03-高速|CU, server: bgp.leishen5288.top, port: 32018, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
   - {name: 🇯🇵 日本04-高速|BGP, server: asd.leishen5288.top, port: 32109, type: trojan, password: 6d31beb2-d63d-4584-a66a-61d60bf42005, sni: www.bilibili.com, skip-cert-verify: true}
+proxy-providers:
+    
+    机场:
+        type: http # http 的 path 可空置,默认储存路径为 homedir的proxies文件夹,文件名为url的md5
+        url: "https://51tu.lol/FA120D" #订阅链接存放在双引号内
+        interval: 86400 #机场订阅自动更新时间 单位：秒
+        path: ./hj_sub.yaml # 默认只允许存储在 clash 的 Home Dir，如果想存储到任意位置，添加环境变量 SKIP_SAFE_PATH_CHECK=1
+        health-check:
+            enable: true
+            interval: 156
+            # lazy: true
+            url: http://cp.cloudflare.com/generate_204
 
 
 proxy-groups:
@@ -142,6 +154,12 @@ proxy-groups:
       - 🇯🇵 日本02-高速|BGP
       - 🇯🇵 日本03-高速|CU
 
+    use:
+      - 机场
+
+    url: http://www.gstatic.com/generate_204
+    interval: 600
+    udp: false
 
 rules:
   - DOMAIN-SUFFIX,ipapi.co,Googleplay
