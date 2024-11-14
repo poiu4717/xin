@@ -81,7 +81,7 @@ proxies:
   - {name: 哥伦比亚8, server: sg-iepl.com, port: 33055, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-D6VHOu7E}
   - {name: 哥伦比亚9, server: sg-iepl.com, port: 33055, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-aQXmlf7w}
   - {name: 哥伦比亚10, server: sg-iepl.com, port: 33055, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-co_session-V0NUkncP}
- - {name: 🇭🇰 香港_01-负载, server: hk01.51feitu.com, port: 10001, type: ss, cipher: chacha20-ietf-poly1305, password: 0cd7c79d-9480-4565-bc3a-cbb7402983bb}
+  - {name: 🇭🇰 香港_01-负载, server: hk01.51feitu.com, port: 10001, type: ss, cipher: chacha20-ietf-poly1305, password: 0cd7c79d-9480-4565-bc3a-cbb7402983bb}
   - {name: 🇭🇰 香港_02-负载, server: hk02.51feitu.com, port: 10002, type: ss, cipher: chacha20-ietf-poly1305, password: 0cd7c79d-9480-4565-bc3a-cbb7402983bb}
   - {name: 🇭🇰 香港_03-负载, server: hk03.51feitu.com, port: 10003, type: ss, cipher: chacha20-ietf-poly1305, password: 0cd7c79d-9480-4565-bc3a-cbb7402983bb}
   - {name: 🇭🇰 香港_04-负载, server: hk04.51feitu.com, port: 10004, type: ss, cipher: chacha20-ietf-poly1305, password: 0cd7c79d-9480-4565-bc3a-cbb7402983bb}
