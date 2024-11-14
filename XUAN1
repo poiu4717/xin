@@ -47,16 +47,6 @@ proxies:
   - {name: 菲律宾9, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-IFWUhV2S}
   - {name: 菲律宾10, server: sg-iepl.com, port: 33574, type: socks5, username: poiu4717, password: 9gHUDSv8OK_country-ph_session-VSaH9iAo}
 
-  - {name: 🇭🇰 香港_11, server: hk11.51feitu.com, port: 11011, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
-  - {name: 🇭🇰 香港_12, server: hk12.51feitu.com, port: 11012, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
-  - {name: 🇭🇰 香港_13, server: hk13.51feitu.com, port: 11013, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
-  - {name: 🇭🇰 香港_14, server: hk14.51feitu.com, port: 11014, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
-  - {name: 🇭🇰 香港_15, server: hk15.51feitu.com, port: 11015, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
-  - {name: 🇭🇰 香港_16, server: hk16.51feitu.com, port: 11016, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
-  - {name: 🇭🇰 香港_17, server: hk17.51feitu.com, port: 11017, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
-  - {name: 🇭🇰 香港_18, server: hk18.51feitu.com, port: 11018, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
-  - {name: 🇭🇰 香港_19, server: hk19.51feitu.com, port: 11019, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
-  - {name: 🇭🇰 香港_20, server: hk20.51feitu.com, port: 11020, type: ss, cipher: chacha20-ietf-poly1305, password: 2f5100a9-a7c8-4cbc-9b3e-bed3ed3611c8}
   - {name: 🇭🇰 香港_01-负载, server: hk01.51feitu.com, port: 10001, type: ss, cipher: chacha20-ietf-poly1305, password: 0cd7c79d-9480-4565-bc3a-cbb7402983bb}
   - {name: 🇭🇰 香港_02-负载, server: hk02.51feitu.com, port: 10002, type: ss, cipher: chacha20-ietf-poly1305, password: 0cd7c79d-9480-4565-bc3a-cbb7402983bb}
   - {name: 🇭🇰 香港_03-负载, server: hk03.51feitu.com, port: 10003, type: ss, cipher: chacha20-ietf-poly1305, password: 0cd7c79d-9480-4565-bc3a-cbb7402983bb}
