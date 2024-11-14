@@ -101,18 +101,6 @@ proxies:
   - {name: 🇭🇰 香港_18, server: hk18.51feitu.com, port: 11018, type: ss, cipher: chacha20-ietf-poly1305, password: 0cd7c79d-9480-4565-bc3a-cbb7402983bb}
   - {name: 🇭🇰 香港_19, server: hk19.51feitu.com, port: 11019, type: ss, cipher: chacha20-ietf-poly1305, password: 0cd7c79d-9480-4565-bc3a-cbb7402983bb}
   - {name: 🇭🇰 香港_20, server: hk20.51feitu.com, port: 11020, type: ss, cipher: chacha20-ietf-poly1305, password: 0cd7c79d-9480-4565-bc3a-cbb7402983bb}
-proxy-providers:
-    
-    机场:
-        type: http # http 的 path 可空置,默认储存路径为 homedir的proxies文件夹,文件名为url的md5
-        url: "https://51tu.lol/FA120D" #订阅链接存放在双引号内
-        interval: 86400 #机场订阅自动更新时间 单位：秒
-        path: ./hj_sub.yaml # 默认只允许存储在 clash 的 Home Dir，如果想存储到任意位置，添加环境变量 SKIP_SAFE_PATH_CHECK=1
-        health-check:
-            enable: true
-            interval: 156
-            # lazy: true
-            url: http://cp.cloudflare.com/generate_204
 
 proxy-groups:
   - name: Googleplay
@@ -208,12 +196,7 @@ proxy-groups:
       - 🇭🇰 香港_18
       - 🇭🇰 香港_19
       - 🇭🇰 香港_20
-    use:
-      - 机场
-
-    url: http://www.gstatic.com/generate_204
-    interval: 600
-    udp: false
+ 
 rules:
   - DOMAIN-SUFFIX,ipapi.co,Googleplay
   - DOMAIN-SUFFIX,ip-api.com,Googleplay
